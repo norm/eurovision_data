@@ -3,7 +3,7 @@ Lightly structured Eurovision data
 
 A set of [TOML](https://toml.io) files describing the scoring behind the
 Eurovision Song Contest, originally used by the 
-[eurovisiondrinking](/norm/eurovisiondrinking) website and twitter bot.
+[eurovisiondrinking](https://github.com/norm/eurodrink) website and twitter bot.
 
 ## Terms used
 
