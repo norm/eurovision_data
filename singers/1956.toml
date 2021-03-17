@@ -1,0 +1,73 @@
+[jetty-paerl]
+name        = 'Henriette Nanette Paerl'
+known_as    = 'Jetty Paerl'
+born        = 1921-05-27
+died        = 2013-08-22
+citizenship = ['netherlands']
+
+[lys-assia]
+name        = 'Rosa Mina Schärer'
+known_as    = 'Lys Assia'
+born        = 1924-03-03
+died        = 2018-03-24
+citizenship = ['switzerland']
+
+[fud-leclerc]
+name        = 'Ferdinand Urbain Dominic Leclerc'
+known_as    = 'Fud Leclerc'
+# born        = 1924
+died        = 2010-09-20
+citizenship = ['belgium']
+
+[walter-andreas-schwarz]
+name        = 'Walter Andreas Schwarz'
+born        = 1913-06-02
+died        = 1992-04-01
+citizenship = ['germany']
+
+[mathe-altery]
+name        = 'Marie-Thérèse Altare'
+known_as    = 'Mathé Altéry'
+born        = 1927-09-12
+citizenship = ['france']
+
+[michele-arnaud]
+name        = 'Micheline Caré'
+known_as    = 'Michèle Arnaud'
+born        = 1919-03-18
+died        = 1998-03-30
+citizenship = ['france']
+
+[franca-raimondi]
+name        = 'Franca Raimondi'
+born        = 1932-07-08
+died        = 1988-08-28
+citizenship = ['italy']
+
+[corry-brokken]
+name        = 'Cornelia Maria Brokken'
+known_as    = 'Corry Brokken'
+born        = 1932-12-03
+died        = 2016-05-31
+citizenship = ['netherlands']
+
+[mony-marc]
+name        = 'Mony Marc'
+citizenship = ['belgium']
+
+[freddy-quinn]
+name        = 'Franz Eugen Helmut Manfred Nidl'
+known_as    = 'Freddy Quinn'
+born        = 1931-09-27
+citizenship = ['austria']
+
+[dany-dauberson]
+name        = 'Dany Dauberson'
+born        = 1925-01-16
+died        = 1979-03-16
+citizenship = ['france']
+
+[tonina-torrielli]
+name        = 'Tonina Torrielli'
+born        = 1934-03-22
+citizenship = ['italy']

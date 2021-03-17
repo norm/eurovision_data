@@ -1,0 +1,39 @@
+[austria]
+english = 'Austria'
+hashtag = 'AUT'
+
+[belgium]
+english = 'Belgium'
+hashtag = 'BEL'
+
+[denmark]
+english = 'Denmark'
+hashtag = 'DNK'
+
+[france]
+english = 'France'
+hashtag = 'FRA'
+
+[germany]
+english = 'Germany'
+hashtag = 'GER'
+
+[italy]
+english = 'Italy'
+hashtag = 'ITA'
+
+[luxembourg]
+english = 'Luxembourg'
+hashtag = 'LUX'
+
+[netherlands]
+english = 'The Netherlands'
+hashtag = 'NLD'
+
+[switzerland]
+english = 'Switzerland'
+hashtag = 'CHE'
+
+[united-kingdom]
+english = 'United Kingdom'
+hashtag = 'GBR'

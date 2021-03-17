@@ -1,0 +1,34 @@
+[bobbejaan-choepen]
+name   = 'Bobbejaan Schoepen'
+singer = ['bobbejaan-choepen']
+
+[daniele-dupre]
+name   = 'Danièle Dupré'
+singer = ['daniele-dupre']
+
+[patricia-bredin]
+name   = 'Patricia Bredin'
+singer = ['patricia-bredin']
+
+[nunzio-gallo]
+name   = 'Nunzio Gallo'
+singer = ['nunzio-gallo']
+
+[bob-martin]
+name   = 'Bob Martin'
+singer = ['bob-martin']
+
+[margot-hielscher]
+name   = 'Margot Hielscher'
+singer = ['margot-hielscher']
+
+[paule-desjardins]
+name   = 'Paule Desjardins'
+singer = ['paule-desjardins']
+
+[birthe-wilke-gustav-winckler]
+name   = 'Birthe Wilke & Gustav Winckler'
+singer = [
+    'birthe-wilke',
+    'gustav-winckler',
+]

@@ -1,0 +1,47 @@
+[corry-brokken]
+name   = 'Corry Brokken'
+singer = ['corry-brokken']
+
+[jetty-paerl]
+name   = 'Jetty Paerl'
+singer = ['jetty-paerl']
+
+[lys-assia]
+name   = 'Lys Assia'
+singer = ['lys-assia']
+
+[fud-leclerc]
+name   = 'Fud Leclerc'
+singer = ['fud-leclerc']
+
+[walter-andreas-schwarz]
+name   = 'Walter Andreas Schwarz'
+singer = ['walter-andreas-schwarz']
+
+[mathe-altery]
+name   = 'Mathé Altéry'
+singer = ['mathe-altery']
+
+[michele-arnaud]
+name   = 'Michèle Arnaud'
+singer = ['michele-arnaud']
+
+[franca-raimondi]
+name   = 'Franca Raimondi'
+singer = ['franca-raimondi']
+
+[mony-marc]
+name   = 'Mony Marc'
+singer = ['mony-marc']
+
+[freddy-quinn]
+name   = 'Freddy Quinn'
+singer = ['freddy-quinn']
+
+[dany-dauberson]
+name   = 'Dany Dauberson'
+singer = ['dany-dauberson']
+
+[tonina-torrielli]
+name   = 'Tonina Torrielli'
+singer = ['tonina-torrielli']

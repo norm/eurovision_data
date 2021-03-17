@@ -1,0 +1,52 @@
+[bobbejaan-choepen]
+name        = 'Modest Schoepen'
+known_as    = 'Bobbejaan Schoepen'
+born        = 1925-05-16
+died        = 2010-05-17
+citizenship = ['belgium']
+
+[daniele-dupre]
+name        = 'Danièle Dupré'
+# born        = 1927
+# died        = 2015
+citizenship = ['france']
+
+[patricia-bredin]
+name        = 'Patricia Bredin'
+born        = 1935-02-14
+citizenship = ['united-kingdom']
+
+[nunzio-gallo]
+name        = 'Nunzio Gallo'
+born        = 1928-03-25
+died        = 2008-02-22
+citizenship = ['italy']
+
+[bob-martin]
+name        = 'Leo Heppe'
+known_as    = 'Bob Martin'
+born        = 1922-06-07
+died        = 1998-01-13
+citizenship = ['austria']
+
+[margot-hielscher]
+name        = 'Margot Hielscher'
+born        = 1919-09-29
+died        = 2017-08-20
+citizenship = ['germany']
+
+[paule-desjardins]
+name        = 'Paule Desjardins'
+citizenship = ['france']
+
+[birthe-wilke]
+name        = 'Birthe Wilke'
+born        = 1936-03-10
+citizenship = ['denmark']
+
+[gustav-winckler]
+name        = 'Gustav Frands Wilzeck Winckler'
+known_as    = 'Gustav Winckler'
+born        = 1925-10-13
+died        = 1979-01-20
+citizenship = ['denmark']

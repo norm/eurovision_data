@@ -1,0 +1,10 @@
+# THIS IS A HACK
+#
+# In 1956, scores were not publicly announced, so all we know is the winner.
+# To simulate this, one point is awarded by Switzerland *to* Switzerland
+# (since voting for your own country was ALSO FINE this first year).
+
+[[switzerland]]
+song   = 'refrain'
+points = 1
+source = 'jury'
