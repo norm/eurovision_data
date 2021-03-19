@@ -90,8 +90,8 @@ for row in board.select('tbody tr'):
         singers_handle.write('[%s]\n' % artist_slug)
         singers_handle.write("name        = '%s'\n" % artist)
         singers_handle.write("known_as    = '%s'\n" % artist)
-        singers_handle.write("born        = 1900-00-00\n")
-        singers_handle.write("died        = 1900-00-00\n")
+        singers_handle.write("born        = 1901-01-01\n")
+        singers_handle.write("died        = 1901-01-01\n")
         singers_handle.write("citizenship = ['country']\n\n")
 
     if song_slug not in songs:

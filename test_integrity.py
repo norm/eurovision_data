@@ -61,8 +61,10 @@ class TestSingerIntegrity:
 
                 if 'born' in entry:
                     assert type(entry['born']) == datetime.date
+                    assert entry['born'] != datetime.date(1901, 1, 1)
                 if 'died' in entry:
                     assert type(entry['died']) == datetime.date
+                    assert entry['died'] != datetime.date(1901, 1, 1)
 
 
 class TestArtistIntegrity:
