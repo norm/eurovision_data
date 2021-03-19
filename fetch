@@ -35,4 +35,13 @@ edit_if_diff singers/$year.toml artists/$year.toml
 edit_if_diff songs/$year.toml
 show_diff scores/$year-$show.toml
 
+git add \
+    countries.toml \
+    contests.toml \
+    shows/$year.toml \
+    artists/$year.toml \
+    singers/$year.toml \
+    songs/$year.toml \
+    scores/$year-$show.toml
+
 pytest
