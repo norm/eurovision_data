@@ -8,6 +8,11 @@ english  = 'Belgium'
 hashtag  = 'BEL'
 language = ['belgian', 'dutch', 'german']
 
+[bulgaria]
+english  = 'Bulgaria'
+hashtag  = 'BGR'
+language = ['bulgarian']
+
 [denmark]
 english  = 'Denmark'
 hashtag  = 'DNK'
@@ -62,6 +67,11 @@ language = ['dutch']
 english  = 'Norway'
 hashtag  = 'NOR'
 language = ['norwegian', 'sami']
+
+[portugal]
+english  = 'Portugal'
+hashtag  = 'PRT'
+language = ['portugese']
 
 [spain]
 english  = 'Spain'

@@ -1,0 +1,63 @@
+[hugues-aufray]
+name   = 'Hugues Aufray'
+singer = ['hugues-aufray']
+
+[anneke-gronloh]
+name   = 'Anneke Grönloh'
+singer = ['anneke-gronloh']
+
+[arne-bendiksen]
+name   = 'Arne Bendiksen'
+singer = ['arne-bendiksen']
+
+[bjrn-tidmand]
+name   = 'Bjørn Tidmand'
+singer = ['bjrn-tidmand']
+
+[lasse-martenson]
+name   = 'Lasse Mårtenson'
+singer = ['lasse-martenson']
+
+[udo-jurgens]
+name   = 'Udo Jürgens'
+singer = ['udo-jurgens']
+
+[rachel]
+name   = 'Rachel'
+singer = ['rachel']
+
+[matt-monro]
+name   = 'Matt Monro'
+singer = ['matt-monro']
+
+[nora-nova]
+name   = 'Nora Nova'
+singer = ['nora-nova']
+
+[romuald]
+name   = 'Romuald'
+singer = ['romuald']
+
+[antonio-calvario]
+name   = 'António Calvário'
+singer = ['antonio-calvario']
+
+[gigliola-cinquetti]
+name   = 'Gigliola Cinquetti'
+singer = ['gigliola-cinquetti']
+
+[sabahudin-kurt]
+name   = 'Sabahudin Kurt'
+singer = ['sabahudin-kurt']
+
+[robert-cogoi]
+name   = 'Robert Cogoi'
+singer = ['robert-cogoi']
+
+[tim-nelly-and-tony]
+name   = 'Tim, Nelly and Tony'
+singer = [
+    'edelweiss-croatto',
+    'argentina-croatto',
+    'hermes-croatto',
+]

@@ -1,0 +1,105 @@
+[hugues-aufray]
+name        = 'Hugues Jean Marie Auffray'
+known_as    = 'Hugues Aufray'
+born        = 1929-08-18
+citizenship = ['france']
+
+[anneke-gronloh]
+name        = 'Louise Johanna Grönloh'
+known_as    = 'Anneke Grönloh'
+born        = 1942-06-07
+died        = 2018-09-14
+citizenship = ['the-netherlands']
+
+[arne-bendiksen]
+name        = 'ne Joachim Bendiksen'
+known_as    = 'Arne Bendiksen'
+born        = 1926-10-19
+died        = 2009-03-26
+citizenship = ['norway']
+
+[bjrn-tidmand]
+name        = 'Bjørn Tidmand'
+born        = 1940-01-24
+citizenship = ['denmark']
+
+[lasse-martenson]
+name        = 'Lars Anders Fredrik Mårtenson'
+known_as    = 'Lasse Mårtenson'
+born        = 1934-09-24
+died        = 2016-05-14
+citizenship = ['finland']
+
+[udo-jurgens]
+name        = 'Jürgen Udo Bockelmann'
+known_as    = 'Udo Jürgens'
+born        = 1934-09-30
+died        = 2014-12-21
+citizenship = ['austria']
+
+[rachel]
+name        = 'Rachel Ros'
+known_as    = 'Rachel'
+born        = 1942-08-11
+citizenship = ['france']
+
+[matt-monro]
+name        = 'Terence Edward Parsons'
+known_as    = 'Matt Monro'
+born        = 1930-12-01
+died        = 1985-02-07
+citizenship = ['united-kingdom']
+
+[nora-nova]
+name        = 'Ahinora Kumanova'
+known_as    = 'Nora Nova'
+born        = 1928-05-08
+citizenship = ['bulgaria']
+
+[romuald]
+name        = 'Romuald Figuier'
+known_as    = 'Romuald'
+born        = 1941-05-05
+citizenship = ['france']
+
+[antonio-calvario]
+name        = 'António Calvário da Paz'
+known_as    = 'António Calvário'
+born        = 1938-10-17
+citizenship = ['portugal']
+
+[gigliola-cinquetti]
+name        = 'Gigliola Cinquetti'
+born        = 1947-12-20
+citizenship = ['italy']
+
+[sabahudin-kurt]
+name        = 'Sabahudin Kurt'
+born        = 1935-07-18
+died        = 2018-03-30
+citizenship = ['yugoslavia']
+
+[robert-cogoi]
+name        = 'Mirko Kogoj'
+known_as    = 'Robert Cogoi'
+born        = 1939-10-25
+citizenship = ['belgium']
+
+[edelweiss-croatto]
+name        = 'Edelweiss Croatto'
+known_as    = 'Tim'
+# born        = 1936
+citizenship = ['italy']
+
+[argentina-croatto]
+name        = 'Argentina Croatto'
+known_as    = 'Nelly'
+# born        = 1941
+citizenship = ['italy']
+
+[hermes-croatto]
+name        = 'Hermes Davide Fastino Croatto Martinis'
+known_as    = 'Tony'
+born        = 1940-03-02
+died        = 2005-04-03
+citizenship = ['italy']
