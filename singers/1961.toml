@@ -1,0 +1,92 @@
+[conchita-bautista]
+name        = 'María Concepción Bautista Fernández'
+known_as    = 'Conchita Bautista'
+born        = 1936-10-27
+citizenship = ['spain']
+
+[colette-dereal]
+name        = 'Colette Denise de Glarélial'
+known_as    = 'Colette Deréal'
+born        = 1927-09-22
+died        = 1988-04-12
+citizenship = ['france']
+
+[jimmy-makulis]
+name        = 'Dimitrios Makulis'       # Τζίμης Μακούλης
+known_as    = 'Jimmy Makulis'
+born        = 1935-04-12
+died        = 2007-10-28
+citizenship = ['greece']
+
+[laila-kinnunen]
+name        = 'Laura Annikki Kinnunen'
+known_as    = 'Laila Kinnunen'
+born        = 1939-11-08
+died        = 2000-10-26
+citizenship = ['finland']
+
+[ljiljana-petrovic]
+name        = 'Ljiljana Petrovic'       # Љиљана Петровић
+# born        = 1939
+died        = 2020-02-04
+citizenship = ['yugoslavia']
+
+[greetje-kauffeld]
+name        = 'Greetje Kauffeld'
+born        = 1939-11-26
+citizenship = ['the-netherlands']
+
+[lill-babs]
+name        = 'Barbro Margareta Svensson'
+known_as    = 'Lill-Babs'
+born        = 1938-03-09
+died        = 2018-04-03
+citizenship = ['sweden']
+
+[lale-andersen]
+name        = 'Lale Andersen'
+born        = 1905-03-23
+died        = 1972-08-29
+citizenship = ['germany']
+
+[jean-paul-mauric]
+name        = 'Jean-Paul Mauric'
+born        = 1933-06-17
+died        = 1971-01-05
+citizenship = ['france']
+
+[franca-di-rienzo]
+name        = 'Franca di Rienzo'
+born        = 1931-12-11
+citizenship = ['france']        # CHECK "french singer of italian origin"
+
+[dario-campeotto]
+name        = 'Dario Campeotto'
+born        = 1939-02-01
+citizenship = ['denmark']
+
+[jean-claude-pascal]
+name        = 'Jean-Claude Pascal'
+born        = 1927-10-24
+died        = 1992-05-05
+citizenship = ['france']
+
+[bob-day]
+name        = 'Bernard Colin Day'
+known_as    = 'Bob Day'
+born        = 1941-02-02
+died        = 2013-11-25
+citizenship = ['united-kingdom']
+
+[john-alford]
+name        = 'Brian Henry John Alford'
+known_as    = 'John Alford'
+born        = 1939-12-31
+citizenship = ['united-kingdom']
+
+[betty-curtis]
+name        = 'Roberta Corti'
+known_as    = 'Betty Curtis'
+born        = 1936-03-21
+died        = 2006-06-15
+citizenship = ['italy']

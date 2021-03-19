@@ -8,10 +8,20 @@ english  = 'Belgium'
 hashtag  = 'BEL'
 language = ['belgian', 'dutch', 'german']
 
+[bulgaria]
+english  = 'Bulgaria'
+hashtag  = 'BGR'
+language = ['bulgarian']
+
 [denmark]
 english  = 'Denmark'
 hashtag  = 'DNK'
 language = ['danish', 'faroese', 'greenlandic', 'german']
+
+[finland]
+english  = 'Finland'
+hashtag  = 'FIN'
+language = ['finnish', 'swedish']
 
 [france]
 english  = 'France'
@@ -22,6 +32,16 @@ language = ['french']
 english  = 'Germany'
 hashtag  = 'GER'
 language = ['german']
+
+[greece]
+english  = 'Greece'
+hashtag  = 'GRC'
+language = ['greek']
+
+[israel]
+english  = 'Israel'
+hashtag  = 'ISR'
+language = ['hebrew']
 
 [italy]
 english  = 'Italy'
@@ -48,6 +68,16 @@ english  = 'Norway'
 hashtag  = 'NOR'
 language = ['norwegian', 'sami']
 
+[portugal]
+english  = 'Portugal'
+hashtag  = 'PRT'
+language = ['portugese']
+
+[spain]
+english  = 'Spain'
+hashtag  = 'ESP'
+language = ['spanish']
+
 [sweden]
 english  = 'Sweden'
 hashtag  = 'SWE'
@@ -62,3 +92,8 @@ language = ['german', 'french', 'italian']
 english  = 'United Kingdom'
 hashtag  = 'GBR'
 language = ['english']
+
+[yugoslavia]
+english  = 'Yugoslavia'
+hashtag  = 'YUG'
+language = ['serbo-croatian', 'slovene', 'macedonian']

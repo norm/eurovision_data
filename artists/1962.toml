@@ -1,0 +1,50 @@
+[marion-rung]
+name   = 'Marion Rung'
+singer = ['marion-rung']
+
+[victor-balaguer]
+name   = 'Victor Balaguer'
+singer = ['victor-balaguer']
+
+[eleonore-schwarz]
+name   = 'Eleonore Schwarz'
+singer = ['eleonore-schwarz']
+
+[ellen-winther]
+name   = 'Ellen Winther'
+singer = ['ellen-winther']
+
+[inger-berggren]
+name   = 'Inger Berggren'
+singer = ['inger-berggren']
+
+[conny-froboess]
+name   = 'Conny Froboess'
+singer = ['conny-froboess']
+
+[de-spelbrekers]
+name   = 'De Spelbrekers'
+singer = [
+    'theo-rekkers',
+    'huug-kok',
+]
+
+[isabelle-aubret]
+name   = 'Isabelle Aubret'
+singer = ['isabelle-aubret']
+
+[inger-jacobsen]
+name   = 'Inger Jacobsen'
+singer = ['inger-jacobsen']
+
+[lola-novakovic]
+name   = 'Lola Novakovic'
+singer = ['lola-novakovic']
+
+[ronnie-carroll]
+name   = 'Ronnie Carroll'
+singer = ['ronnie-carroll']
+
+[claudio-villa]
+name   = 'Claudio Villa'
+singer = ['claudio-villa']

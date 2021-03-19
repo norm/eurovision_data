@@ -1,0 +1,55 @@
+[conchita-bautista]
+name   = 'Conchita Bautista'
+singer = ['conchita-bautista']
+
+[colette-dereal]
+name   = 'Colette Deréal'
+singer = ['colette-dereal']
+
+[jimmy-makulis]
+name   = 'Jimmy Makulis'
+singer = ['jimmy-makulis']
+
+[laila-kinnunen]
+name   = 'Laila Kinnunen'
+singer = ['laila-kinnunen']
+
+[ljiljana-petrovic]
+name   = 'Ljiljana Petrovic'
+singer = ['ljiljana-petrovic']
+
+[greetje-kauffeld]
+name   = 'Greetje Kauffeld'
+singer = ['greetje-kauffeld']
+
+[lill-babs]
+name   = 'Lill-Babs'
+singer = ['lill-babs']
+
+[lale-andersen]
+name   = 'Lale Andersen'
+singer = ['lale-andersen']
+
+[jean-paul-mauric]
+name   = 'Jean-Paul Mauric'
+singer = ['jean-paul-mauric']
+
+[franca-di-rienzo]
+name   = 'Franca di Rienzo'
+singer = ['franca-di-rienzo']
+
+[dario-campeotto]
+name   = 'Dario Campeotto'
+singer = ['dario-campeotto']
+
+[jean-claude-pascal]
+name   = 'Jean-Claude Pascal'
+singer = ['jean-claude-pascal']
+
+[the-allisons]
+name   = 'The Allisons'
+singer = ['bob-day', 'john-alford']
+
+[betty-curtis]
+name   = 'Betty Curtis'
+singer = ['betty-curtis']

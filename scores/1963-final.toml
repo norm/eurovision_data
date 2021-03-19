@@ -1,0 +1,400 @@
+[[austria]]
+song   = 'ten-va-pas'
+points = 5
+source = 'jury'
+
+[[austria]]
+song   = 'waarom'
+points = 4
+source = 'jury'
+
+[[austria]]
+song   = 'dansevise'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'elle-etait-si-jolie'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'lamour-sen-va'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'dansevise'
+points = 5
+source = 'jury'
+
+[[belgium]]
+song   = 'ten-va-pas'
+points = 4
+source = 'jury'
+
+[[belgium]]
+song   = 'uno-per-tutte'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'elle-etait-si-jolie'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'uno-per-tutte'
+points = 5
+source = 'jury'
+
+[[denmark]]
+song   = 'ten-va-pas'
+points = 4
+source = 'jury'
+
+[[denmark]]
+song   = 'say-wonderful-things'
+points = 3
+source = 'jury'
+
+[[denmark]]
+song   = 'a-force-de-prier'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'dansevise'
+points = 5
+source = 'jury'
+
+[[finland]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 4
+source = 'jury'
+
+[[finland]]
+song   = 'say-wonderful-things'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'uno-per-tutte'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'a-force-de-prier'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'lamour-sen-va'
+points = 5
+source = 'jury'
+
+[[france]]
+song   = 'a-force-de-prier'
+points = 4
+source = 'jury'
+
+[[france]]
+song   = 'say-wonderful-things'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'brodovi'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'lamour-sen-va'
+points = 5
+source = 'jury'
+
+[[germany]]
+song   = 'ten-va-pas'
+points = 4
+source = 'jury'
+
+[[germany]]
+song   = 'a-force-de-prier'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'dansevise'
+points = 2
+source = 'jury'
+
+[[germany]]
+song   = 'elle-etait-si-jolie'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'ten-va-pas'
+points = 5
+source = 'jury'
+
+[[italy]]
+song   = 'elle-etait-si-jolie'
+points = 4
+source = 'jury'
+
+[[italy]]
+song   = 'lamour-sen-va'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'dansevise'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'a-force-de-prier'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'dansevise'
+points = 5
+source = 'jury'
+
+[[luxembourg]]
+song   = 'uno-per-tutte'
+points = 4
+source = 'jury'
+
+[[luxembourg]]
+song   = 'ten-va-pas'
+points = 3
+source = 'jury'
+
+[[luxembourg]]
+song   = 'lamour-sen-va'
+points = 2
+source = 'jury'
+
+[[luxembourg]]
+song   = 'elle-etait-si-jolie'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'uno-per-tutte'
+points = 5
+source = 'jury'
+
+[[monaco]]
+song   = 'ten-va-pas'
+points = 4
+source = 'jury'
+
+[[monaco]]
+song   = 'marcel'
+points = 3
+source = 'jury'
+
+[[monaco]]
+song   = 'elle-etait-si-jolie'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'say-wonderful-things'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'say-wonderful-things'
+points = 5
+source = 'jury'
+
+[[norway]]
+song   = 'dansevise'
+points = 4
+source = 'jury'
+
+[[norway]]
+song   = 'uno-per-tutte'
+points = 3
+source = 'jury'
+
+[[norway]]
+song   = 'marcel'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'ten-va-pas'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'say-wonderful-things'
+points = 5
+source = 'jury'
+
+[[spain]]
+song   = 'ten-va-pas'
+points = 4
+source = 'jury'
+
+[[spain]]
+song   = 'uno-per-tutte'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'brodovi'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'elle-etait-si-jolie'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'dansevise'
+points = 5
+source = 'jury'
+
+[[sweden]]
+song   = 'lamour-sen-va'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'say-wonderful-things'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'ten-va-pas'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'uno-per-tutte'
+points = 5
+source = 'jury'
+
+[[switzerland]]
+song   = 'elle-etait-si-jolie'
+points = 4
+source = 'jury'
+
+[[switzerland]]
+song   = 'dansevise'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'a-force-de-prier'
+points = 2
+source = 'jury'
+
+[[switzerland]]
+song   = 'lamour-sen-va'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'dansevise'
+points = 5
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'elle-etait-si-jolie'
+points = 4
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'say-wonderful-things'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'lamour-sen-va'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'uno-per-tutte'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'ten-va-pas'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'vielleicht-geschieht-ein-wunder'
+points = 4
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'dansevise'
+points = 3
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'uno-per-tutte'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'lamour-sen-va'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'elle-etait-si-jolie'
+points = 5
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'uno-per-tutte'
+points = 4
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'say-wonderful-things'
+points = 3
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'algo-prodigioso'
+points = 2
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'lamour-sen-va'
+points = 1
+source = 'jury'
+

@@ -10,8 +10,18 @@ function edit_if_diff {
 
     git add -N $file
     printf '\e[35m** %s\e[0m\n' $file
-    git diff --exit-code $file || \
-        subl -w $file
+    git diff --exit-code $file >/dev/null || \
+        subl -w "$@"
+}
+
+function show_diff {
+    local file="$1"
+
+    git add -N $file
+    printf '\e[35m** %s\e[0m\n' $file
+    git diff $file
+    read -n1
+    echo ''
 }
 
 
@@ -19,10 +29,19 @@ python fetch_scoreboard.py $venue $year $show
 
 edit_if_diff countries.toml
 edit_if_diff contests.toml
-edit_if_diff shows/$year.toml
-edit_if_diff artists/$year.toml
-edit_if_diff singers/$year.toml
+show_diff shows/$year.toml
+show_diff artists/$year.toml
+edit_if_diff singers/$year.toml artists/$year.toml
 edit_if_diff songs/$year.toml
-edit_if_diff scores/$year-$show.toml
+show_diff scores/$year-$show.toml
+
+git add \
+    countries.toml \
+    contests.toml \
+    shows/$year.toml \
+    artists/$year.toml \
+    singers/$year.toml \
+    songs/$year.toml \
+    scores/$year-$show.toml
 
 pytest

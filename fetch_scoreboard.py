@@ -9,7 +9,7 @@ import toml
 
 
 def text_of(element):
-    return element.get_text().replace('\n', '')
+    return element.get_text().replace('\n', '').strip()
 
 
 USER_AGENT='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15'
@@ -51,6 +51,8 @@ if year not in contests:
 if 'shows' not in contests[year]:
     contests[year]['shows'] = []
 contests[year]['shows'].append('%s-%s' % (year, show))
+with open('contests.toml', 'w') as contests_handle:
+    toml.dump(contests, contests_handle)
 
 countries_handle = open('countries.toml', 'a')
 artists_handle   = open('artists/%s.toml' % year, 'a+')
@@ -76,8 +78,9 @@ for row in board.select('tbody tr'):
 
     if country_slug not in countries:
         countries_handle.write("\n[%s]\n" % country_slug)
-        countries_handle.write("english = '%s'\n" % country)
-        countries_handle.write("hashtag = ''\n\n")
+        countries_handle.write("english  = '%s'\n" % country)
+        countries_handle.write("hashtag  = ''\n\n")
+        countries_handle.write("language = ['xx']\n\n")
 
     if artist_slug not in artists:
         artists_handle.write("[%s]\n" % artist_slug)
@@ -88,8 +91,8 @@ for row in board.select('tbody tr'):
         singers_handle.write('[%s]\n' % artist_slug)
         singers_handle.write("name        = '%s'\n" % artist)
         singers_handle.write("known_as    = '%s'\n" % artist)
-        singers_handle.write("born        = 1900-00-00\n")
-        singers_handle.write("died        = 1900-00-00\n")
+        singers_handle.write("born        = 1901-01-01\n")
+        singers_handle.write("died        = 1901-01-01\n")
         singers_handle.write("citizenship = ['country']\n\n")
 
     if song_slug not in songs:

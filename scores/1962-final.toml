@@ -1,0 +1,240 @@
+[[austria]]
+song   = 'dis-rien'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'un-premier-amour'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'petit-bonhomme'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'petit-bonhomme'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'un-premier-amour'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'ne-pali-svetlo-u-sumrak'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'sol-och-var'
+points = 3
+source = 'jury'
+
+[[denmark]]
+song   = 'ring-a-ding-girl'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'zwei-kleine-italiener'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'ring-a-ding-girl'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'zwei-kleine-italiener'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'ne-pali-svetlo-u-sumrak'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'ne-pali-svetlo-u-sumrak'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'kom-sol-kom-regn'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'dis-rien'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'un-premier-amour'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'le-retour'
+points = 2
+source = 'jury'
+
+[[germany]]
+song   = 'dis-rien'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'ne-pali-svetlo-u-sumrak'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'un-premier-amour'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'vuggevise'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'dis-rien'
+points = 3
+source = 'jury'
+
+[[luxembourg]]
+song   = 'addio-addio'
+points = 2
+source = 'jury'
+
+[[luxembourg]]
+song   = 'un-premier-amour'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'petit-bonhomme'
+points = 3
+source = 'jury'
+
+[[monaco]]
+song   = 'zwei-kleine-italiener'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'un-premier-amour'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'un-premier-amour'
+points = 3
+source = 'jury'
+
+[[norway]]
+song   = 'dis-rien'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'tipi-tii'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'petit-bonhomme'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'un-premier-amour'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'ring-a-ding-girl'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'un-premier-amour'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'ne-pali-svetlo-u-sumrak'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'vuggevise'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'un-premier-amour'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'ring-a-ding-girl'
+points = 2
+source = 'jury'
+
+[[switzerland]]
+song   = 'petit-bonhomme'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'dis-rien'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'zwei-kleine-italiener'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'sol-och-var'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'tipi-tii'
+points = 3
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'zwei-kleine-italiener'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'un-premier-amour'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'un-premier-amour'
+points = 3
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'ring-a-ding-girl'
+points = 2
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'addio-addio'
+points = 1
+source = 'jury'
+

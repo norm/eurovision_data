@@ -61,8 +61,10 @@ class TestSingerIntegrity:
 
                 if 'born' in entry:
                     assert type(entry['born']) == datetime.date
+                    assert entry['born'] != datetime.date(1901, 1, 1)
                 if 'died' in entry:
                     assert type(entry['died']) == datetime.date
+                    assert entry['died'] != datetime.date(1901, 1, 1)
 
 
 class TestArtistIntegrity:
@@ -149,8 +151,33 @@ class TestSongIntegrity:
                     assert songs_per_country[country] == 2
             if contest != '1956':
                 for country in songs_per_country:
-                    print(country, songs_per_country[country])
                     assert songs_per_country[country] == 1
+
+
+class TestSingerArtistIntegrity:
+    def setup_class(self):
+        self.countries = toml.load('countries.toml')
+        self.contests = toml.load('contests.toml')
+        self.singers = {}
+        self.artists = {}
+        self.songs = {}
+        for contest in self.contests:
+            new_singers = toml.load('singers/%s.toml' % contest)
+            self.singers.update(new_singers)
+            new_artists = toml.load('artists/%s.toml' % contest)
+            self.artists.update(new_artists)
+            new_songs = toml.load('songs/%s.toml' % contest)
+            self.songs.update(new_songs)
+
+    def test_singer_artist_combo(self):
+        seen_singers = []
+        for artist in self.artists:
+            for singer in self.artists[artist]['singer']:
+                assert singer in self.singers
+                seen_singers.append(singer)
+        for singer in self.singers:
+            assert singer in seen_singers
+
 
 class TestShowIntegrity:
     def setup_class(self):
@@ -225,9 +252,17 @@ class TestScoresIntegrity:
                     assert points > 0
                     if year >= 1957 and year <= 1961:
                         assert points <= 10
+                    if year == 1962:
+                        assert points in (1, 2, 3)
+                    if year == 1963:
+                        assert points in (1, 2, 3, 4, 5)
 
                     assert 'source' in score
                     assert score['source'] in ['jury', 'televote']
 
                 if year >= 1957 and year <= 1961:
                     assert total == 10
+                if year == 1962:
+                    assert total == 6
+                if year == 1963:
+                    assert total == 15
