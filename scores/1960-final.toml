@@ -1,0 +1,320 @@
+[[austria]]
+song   = 'looking-high-high-high'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'bonne-nuit-ma-cherie'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'cielo-e-terra'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'tom-pillibi'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'voi-voi'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'mon-amour-pour-toi'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'tom-pillibi'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'bonne-nuit-ma-cherie'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'du-hast-mich-so-fasziniert'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'voi-voi'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'looking-high-high-high'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'wat-een-geluk'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'romantica'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'tom-pillibi'
+points = 4
+source = 'jury'
+
+[[denmark]]
+song   = 'ce-soir-la'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'du-hast-mich-so-fasziniert'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'voi-voi'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'bonne-nuit-ma-cherie'
+points = 4
+source = 'jury'
+
+[[france]]
+song   = 'ce-soir-la'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'alla-andra-far-varann'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'voi-voi'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'ce-soir-la'
+points = 7
+source = 'jury'
+
+[[germany]]
+song   = 'tom-pillibi'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'mon-amour-pour-toi'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'looking-high-high-high'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'mon-amour-pour-toi'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'looking-high-high-high'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'cielo-e-terra'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'du-hast-mich-so-fasziniert'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'wat-een-geluk'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'so-laang-wes-du-do-bast'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'alla-andra-far-varann'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'looking-high-high-high'
+points = 5
+source = 'jury'
+
+[[luxembourg]]
+song   = 'tom-pillibi'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'romantica'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'cielo-e-terra'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'ce-soir-la'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'det-var-en-yndig-tid'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'tom-pillibi'
+points = 5
+source = 'jury'
+
+[[monaco]]
+song   = 'romantica'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'bonne-nuit-ma-cherie'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'looking-high-high-high'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'tom-pillibi'
+points = 5
+source = 'jury'
+
+[[norway]]
+song   = 'det-var-en-yndig-tid'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'looking-high-high-high'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'cielo-e-terra'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'tom-pillibi'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'mon-amour-pour-toi'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'bonne-nuit-ma-cherie'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'looking-high-high-high'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'voi-voi'
+points = 4
+source = 'jury'
+
+[[switzerland]]
+song   = 'looking-high-high-high'
+points = 4
+source = 'jury'
+
+[[switzerland]]
+song   = 'tom-pillibi'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'ce-soir-la'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'looking-high-high-high'
+points = 5
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'tom-pillibi'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'romantica'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'voi-voi'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'alla-andra-far-varann'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'tom-pillibi'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'du-hast-mich-so-fasziniert'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'ce-soir-la'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'voi-voi'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'det-var-en-yndig-tid'
+points = 1
+source = 'jury'
+

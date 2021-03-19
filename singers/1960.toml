@@ -1,0 +1,76 @@
+[bryan-johnson]
+name        = 'Bryan Johnson'
+born        = 1926-07-18
+died        = 1995-10-18
+citizenship = ['united-kingdom']
+
+[siw-malmkvist]
+name        = 'Siw Gunnel Margareta Malmkvist'
+known_as    = 'Siw Malmkvist'
+born        = 1936-12-31
+citizenship = ['sweden']
+
+[camillo-felgen]
+name        = 'Camillo Jean Nicolas Felgen'
+known_as    = 'Camillo Felgen'
+born        = 1920-11-17
+died        = 2005-07-16
+citizenship = ['luxembourg']
+
+[katy-bdtger]
+name        = 'Katy Bødtger'
+born        = 1932-12-28
+died        = 2017-05-01
+citizenship = ['denmark']
+
+[nora-brockstedt]
+name        = 'Nora Brockstedt'
+born        = 1923-01-20
+died        = 2015-11-05
+citizenship = ['norway']
+
+[harry-winter]
+name        = 'Horst Winter'
+known_as    = 'Harry Winter'
+born        = 1914-09-24
+died        = 2001-12-03
+citizenship = ['germany']
+
+[francois-deguelt]
+name        = 'Louis Deghelt'
+known_as    = 'François Deguelt'
+born        = 1932-12-04
+died        = 2014-01-22
+citizenship = ['france']
+
+[anita-traversi]
+name        = 'Anita Traversi'
+born        = 1937-07-25
+died        = 1991-09-25
+citizenship = ['switzerland']
+
+[rudi-carrell]
+name        = 'Rudolf Wijbrand Kesselaar'
+known_as    = 'Rudi Carrell'
+born        = 1934-12-19
+died        = 2006-07-07
+citizenship = ['the-netherlands']
+
+[wyn-hoop]
+name        = 'Winfried Lüssenhop'
+known_as    = 'Wyn Hoop'
+born        = 1936-05-29
+citizenship = ['germany']
+
+[renato-rascel]
+name        = 'Renato Ranucci'
+known_as    = 'Renato Rascel'
+born        = 1912-04-27
+died        = 1991-02-02
+citizenship = ['italy']
+
+[jacqueline-boyer]
+name        = 'Eliane Ducos'
+known_as    = 'Jacqueline Boyer'
+born        = 1941-04-23
+citizenship = ['france']

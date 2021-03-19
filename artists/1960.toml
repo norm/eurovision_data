@@ -1,0 +1,47 @@
+[bryan-johnson]
+name   = 'Bryan Johnson'
+singer = ['bryan-johnson']
+
+[siw-malmkvist]
+name   = 'Siw Malmkvist'
+singer = ['siw-malmkvist']
+
+[camillo-felgen]
+name   = 'Camillo Felgen'
+singer = ['camillo-felgen']
+
+[katy-bdtger]
+name   = 'Katy Bødtger'
+singer = ['katy-bdtger']
+
+[nora-brockstedt]
+name   = 'Nora Brockstedt'
+singer = ['nora-brockstedt']
+
+[harry-winter]
+name   = 'Harry Winter'
+singer = ['harry-winter']
+
+[francois-deguelt]
+name   = 'François Deguelt'
+singer = ['francois-deguelt']
+
+[anita-traversi]
+name   = 'Anita Traversi'
+singer = ['anita-traversi']
+
+[rudi-carrell]
+name   = 'Rudi Carrell'
+singer = ['rudi-carrell']
+
+[wyn-hoop]
+name   = 'Wyn Hoop'
+singer = ['wyn-hoop']
+
+[renato-rascel]
+name   = 'Renato Rascel'
+singer = ['renato-rascel']
+
+[jacqueline-boyer]
+name   = 'Jacqueline Boyer'
+singer = ['jacqueline-boyer']
