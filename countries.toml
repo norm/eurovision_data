@@ -30,6 +30,10 @@ hashtag = 'LUX'
 english = 'The Netherlands'
 hashtag = 'NLD'
 
+[sweden]
+english = 'Sweden'
+hashtag = 'SWE'
+
 [switzerland]
 english = 'Switzerland'
 hashtag = 'CHE'

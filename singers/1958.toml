@@ -1,0 +1,36 @@
+[domenico-modugno]
+name        = 'Domenico Modugno'
+born        = 1928-01-09
+died        = 1994-08-06
+citizenship = ['italy']
+
+[andre-claveau]
+name        = 'André Claveau'
+born        = 1911-12-17
+died        = 2003-07-04
+citizenship = ['france']
+
+[solange-berry]
+name        = 'Solange Berry'
+born        = 1932-11-23
+citizenship = ['belgium']
+
+[alice-babs]
+name        = 'Hildur Alice Nilson'
+known_as    = 'Alice Babs'
+born        = 1924-01-26
+died        = 2014-02-11
+citizenship = ['sweden']
+
+[raquel-rastenni]
+name        = 'Anna Rachel Rastén'
+known_as    = 'Raquel Rastenni'
+born        = 1915-08-21
+died        = 1998-08-17
+citizenship = ['denmark']
+
+[liane-augustin]
+name        = 'Liane Augustin'
+born        = 1928-11-18
+died        = 1978-04-30
+citizenship = ['germany']
