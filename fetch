@@ -10,7 +10,7 @@ function edit_if_diff {
 
     git add -N $file
     printf '\e[35m** %s\e[0m\n' $file
-    git diff --exit-code $file || \
+    git diff --exit-code $file >/dev/null || \
         subl -w "$@"
 }
 
