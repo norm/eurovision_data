@@ -43,6 +43,15 @@ competing = []
 song_by_country = {}
 songs_in_order = []
 
+contests = toml.load('contests.toml')
+if year not in contests:
+    contests[year] = {
+        'host': '',
+    }
+if 'shows' not in contests[year]:
+    contests[year]['shows'] = []
+contests[year]['shows'].append('%s-%s' % (year, show))
+
 countries_handle = open('countries.toml', 'a')
 artists_handle   = open('artists/%s.toml' % year, 'a+')
 singers_handle   = open('singers/%s.toml' % year, 'a+')
