@@ -151,8 +151,33 @@ class TestSongIntegrity:
                     assert songs_per_country[country] == 2
             if contest != '1956':
                 for country in songs_per_country:
-                    print(country, songs_per_country[country])
                     assert songs_per_country[country] == 1
+
+
+class TestSingerArtistIntegrity:
+    def setup_class(self):
+        self.countries = toml.load('countries.toml')
+        self.contests = toml.load('contests.toml')
+        self.singers = {}
+        self.artists = {}
+        self.songs = {}
+        for contest in self.contests:
+            new_singers = toml.load('singers/%s.toml' % contest)
+            self.singers.update(new_singers)
+            new_artists = toml.load('artists/%s.toml' % contest)
+            self.artists.update(new_artists)
+            new_songs = toml.load('songs/%s.toml' % contest)
+            self.songs.update(new_songs)
+
+    def test_singer_artist_combo(self):
+        seen_singers = []
+        for artist in self.artists:
+            for singer in self.artists[artist]['singer']:
+                assert singer in self.singers
+                seen_singers.append(singer)
+        for singer in self.singers:
+            assert singer in seen_singers
+
 
 class TestShowIntegrity:
     def setup_class(self):
