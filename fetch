@@ -11,7 +11,7 @@ function edit_if_diff {
     git add -N $file
     printf '\e[35m** %s\e[0m\n' $file
     git diff --exit-code $file || \
-        subl -w $file
+        subl -w "$@"
 }
 
 function show_diff {
@@ -31,7 +31,7 @@ edit_if_diff countries.toml
 edit_if_diff contests.toml
 show_diff shows/$year.toml
 show_diff artists/$year.toml
-edit_if_diff singers/$year.toml
+edit_if_diff singers/$year.toml artists/$year.toml
 edit_if_diff songs/$year.toml
 show_diff scores/$year-$show.toml
 
