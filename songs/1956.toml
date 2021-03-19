@@ -1,7 +1,7 @@
 [de-vogels-van-holland]
 title   = "De vogels van Holland"
 artist  = 'jetty-paerl'
-country = 'netherlands'
+country = 'the-netherlands'
 
 [das-alte-karussell]
 title   = "Das alte Karussell"
@@ -36,7 +36,7 @@ country = 'italy'
 [voorgoed-voorbij]
 title   = "Voorgoed voorbij"
 artist  = 'corry-brokken'
-country = 'netherlands'
+country = 'the-netherlands'
 
 [refrain]
 title   = "Refrain"
