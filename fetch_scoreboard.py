@@ -26,18 +26,27 @@ soup = BeautifulSoup(req.text, 'html.parser')
 
 # load existing data
 countries = toml.load('countries.toml')
-artists   = toml.load('artists/%s.toml' % year)
-singers   = toml.load('singers/%s.toml' % year)
-songs     = toml.load('songs/%s.toml' % year)
+try:
+    artists = toml.load('artists/%s.toml' % year)
+except FileNotFoundError:
+    artists = {}
+try:
+    singers = toml.load('singers/%s.toml' % year)
+except FileNotFoundError:
+    singers = {}
+try:
+    songs = toml.load('songs/%s.toml' % year)
+except FileNotFoundError:
+    songs = {}
 
 competing = []
 song_by_country = {}
 songs_in_order = []
 
 countries_handle = open('countries.toml', 'a')
-artists_handle   = open('artists/%s.toml' % year, 'a')
-singers_handle   = open('singers/%s.toml' % year, 'a')
-songs_handle     = open('songs/%s.toml' % year, 'a')
+artists_handle   = open('artists/%s.toml' % year, 'a+')
+singers_handle   = open('singers/%s.toml' % year, 'a+')
+songs_handle     = open('songs/%s.toml' % year, 'a+')
 
 board = soup.find_all('table', class_='w-full')[0]
 for row in board.select('tbody tr'):
@@ -112,7 +121,7 @@ with open('scores/%s-%s.toml' % (year, show), 'w') as scores_handle:
             scores_handle.write('points = %s\n' % points)
             scores_handle.write("source = 'jury'\n\n")
 
-with open('shows/%s.toml' % year, 'a') as shows_handle:
+with open('shows/%s.toml' % year, 'a+') as shows_handle:
     shows_handle.write('[%s-%s]\n' % (year, show))
     shows_handle.write('date         = %s-01-01\n' % year)
     shows_handle.write("type         = '%s'\n" % show)
