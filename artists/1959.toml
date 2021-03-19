@@ -1,0 +1,45 @@
+[jean-philippe]
+name   = 'Jean Philippe'
+singer = ['jean-philippe']
+
+[birthe-wilke]
+name   = 'Birthe Wilke'
+singer = ['birthe-wilke']
+
+[jacques-pills]
+name   = 'Jacques Pills'
+singer = ['jacques-pills']
+
+[teddy-scholten]
+name   = 'Teddy Scholten'
+singer = ['teddy-scholten']
+
+[alice-and-ellen-kessler]
+name   = 'Alice & Ellen Kessler'
+singer = [
+    'alice-kessler',
+    'ellen-kessler',
+]
+
+[brita-borg]
+name   = 'Brita Borg'
+singer = ['brita-borg']
+
+[christa-williams]
+name   = 'Christa Williams'
+singer = ['christa-williams']
+
+[ferry-graf]
+name   = 'Ferry Graf'
+singer = ['ferry-graf']
+
+[pearl-carr-and-teddy-johnson]
+name   = 'Pearl Carr and Teddy Johnson'
+singer = [
+    'pearl-carr',
+    'teddy-johnson',
+]
+
+[bob-benny]
+name   = 'Bob Benny'
+singer = ['bob-benny']
