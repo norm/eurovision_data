@@ -1,0 +1,77 @@
+[looking-high-high-high]
+title    = "Looking High, High, High"
+artist   = 'bryan-johnson'
+country  = 'united-kingdom'
+language = ['english']
+
+[alla-andra-far-varann]
+title    = "Alla Andra Får Varann"
+artist   = 'siw-malmkvist'
+country  = 'sweden'
+language = ['swedish']
+
+[so-laang-wes-du-do-bast]
+title    = "So Laang We's Du Do Bast"
+artist   = 'camillo-felgen'
+country  = 'luxembourg'
+language = ['luxembourgish']
+
+[det-var-en-yndig-tid]
+title    = "Det Var En Yndig Tid"
+artist   = 'katy-bdtger'
+country  = 'denmark'
+language = ['danish']
+
+[mon-amour-pour-toi]
+title    = "Mon Amour Pour Toi"
+artist   = 'fud-leclerc'
+country  = 'belgium'
+language = ['french']
+
+[voi-voi]
+title    = "Voi-voi"
+artist   = 'nora-brockstedt'
+country  = 'norway'
+language = ['norwegian']
+
+[du-hast-mich-so-fasziniert]
+title    = "Du Hast Mich So Fasziniert"
+artist   = 'harry-winter'
+country  = 'austria'
+language = ['german']
+
+[ce-soir-la]
+title    = "Ce Soir-là"
+artist   = 'francois-deguelt'
+country  = 'monaco'
+language = ['french']
+
+[cielo-e-terra]
+title    = "Cielo E Terra"
+artist   = 'anita-traversi'
+country  = 'switzerland'
+language = ['italian']
+
+[wat-een-geluk]
+title    = "Wat Een Geluk"
+artist   = 'rudi-carrell'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[bonne-nuit-ma-cherie]
+title    = "Bonne Nuit, Ma Chérie!"
+artist   = 'wyn-hoop'
+country  = 'germany'
+language = ['german']
+
+[romantica]
+title    = "Romantica"
+artist   = 'renato-rascel'
+country  = 'italy'
+language = ['italian']
+
+[tom-pillibi]
+title    = "Tom Pillibi"
+artist   = 'jacqueline-boyer'
+country  = 'france'
+language = ['french']

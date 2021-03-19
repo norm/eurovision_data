@@ -43,6 +43,11 @@ english  = 'The Netherlands'
 hashtag  = 'NLD'
 language = ['dutch']
 
+[norway]
+english  = 'Norway'
+hashtag  = 'NOR'
+language = ['norwegian', 'sami']
+
 [sweden]
 english  = 'Sweden'
 hashtag  = 'SWE'
