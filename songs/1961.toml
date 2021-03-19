@@ -1,0 +1,95 @@
+[estando-contigo]
+title    = "Estando Contigo"
+artist   = 'conchita-bautista'
+country  = 'spain'
+language = ['spanish']
+
+[allons-allons-les-enfants]
+title    = "Allons, Allons Les Enfants"
+artist   = 'colette-dereal'
+country  = 'monaco'
+language = ['french']
+
+[sehnsucht]
+title    = "Sehnsucht"
+artist   = 'jimmy-makulis'
+country  = 'austria'
+language = ['german']
+
+[valoa-ikkunassa]
+title    = "Valoa Ikkunassa"
+artist   = 'laila-kinnunen'
+country  = 'finland'
+language = ['finnish']
+
+[neke-davne-zvezde]
+title    = "Neke Davne Zvezde"
+artist   = 'ljiljana-petrovic'
+country  = 'yugoslavia'
+language = ['serbo-croatian']
+
+[wat-een-dag]
+title    = "Wat Een Dag"
+artist   = 'greetje-kauffeld'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[april-april]
+title    = "April, April"
+artist   = 'lill-babs'
+country  = 'sweden'
+language = ['swedish']
+
+[einmal-sehen-wir-uns-wieder]
+title    = "Einmal Sehen Wir Uns Wieder"
+artist   = 'lale-andersen'
+country  = 'germany'
+language = ['german', 'french']
+
+[printemps-avril-carillonne]
+title    = "Printemps (avril Carillonne)"
+artist   = 'jean-paul-mauric'
+country  = 'france'
+language = ['french']
+
+[nous-aurons-demain]
+title    = "Nous Aurons Demain"
+artist   = 'franca-di-rienzo'
+country  = 'switzerland'
+language = ['french']
+
+[september-gouden-roos]
+title    = "September, Gouden Roos"
+artist   = 'bob-benny'
+country  = 'belgium'
+language = ['dutch']
+
+[sommer-i-palma]
+title    = "Sommer I Palma "
+artist   = 'nora-brockstedt'
+country  = 'norway'
+language = ['norwegian']
+
+[angelique]
+title    = "Angelique"
+artist   = 'dario-campeotto'
+country  = 'denmark'
+language = ['danish']
+
+[nous-les-amoureux]
+title    = "Nous Les Amoureux"
+artist   = 'jean-claude-pascal'
+country  = 'luxembourg'
+language = ['french']
+
+[are-you-sure]
+title    = "Are You Sure?"
+artist   = 'the-allisons'
+country  = 'united-kingdom'
+language = ['english']
+
+[al-di-la]
+title    = "Al Di Là"
+artist   = 'betty-curtis'
+country  = 'italy'
+language = ['italian']

@@ -1,0 +1,395 @@
+[[austria]]
+song   = 'nous-les-amoureux'
+points = 4
+source = 'jury'
+
+[[austria]]
+song   = 'neke-davne-zvezde'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'nous-aurons-demain'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'einmal-sehen-wir-uns-wieder'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'sommer-i-palma'
+points = 5
+source = 'jury'
+
+[[belgium]]
+song   = 'al-di-la'
+points = 4
+source = 'jury'
+
+[[belgium]]
+song   = 'are-you-sure'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'al-di-la'
+points = 4
+source = 'jury'
+
+[[denmark]]
+song   = 'are-you-sure'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'nous-les-amoureux'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'sommer-i-palma'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'einmal-sehen-wir-uns-wieder'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'neke-davne-zvezde'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'valoa-ikkunassa'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'nous-les-amoureux'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'allons-allons-les-enfants'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'sommer-i-palma'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'angelique'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'printemps-avril-carillonne'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'neke-davne-zvezde'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'april-april'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'estando-contigo'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'valoa-ikkunassa'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'wat-een-dag'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'nous-les-amoureux'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'al-di-la'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'nous-les-amoureux'
+points = 5
+source = 'jury'
+
+[[germany]]
+song   = 'printemps-avril-carillonne'
+points = 4
+source = 'jury'
+
+[[germany]]
+song   = 'wat-een-dag'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'nous-les-amoureux'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'nous-aurons-demain'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'wat-een-dag'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'valoa-ikkunassa'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'are-you-sure'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'are-you-sure'
+points = 8
+source = 'jury'
+
+[[luxembourg]]
+song   = 'september-gouden-roos'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'printemps-avril-carillonne'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'nous-les-amoureux'
+points = 4
+source = 'jury'
+
+[[monaco]]
+song   = 'nous-aurons-demain'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'printemps-avril-carillonne'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'al-di-la'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'estando-contigo'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'angelique'
+points = 8
+source = 'jury'
+
+[[norway]]
+song   = 'estando-contigo'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'are-you-sure'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'nous-les-amoureux'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'printemps-avril-carillonne'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'sommer-i-palma'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'nous-aurons-demain'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'allons-allons-les-enfants'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'nous-aurons-demain'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'angelique'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'nous-les-amoureux'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'printemps-avril-carillonne'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'einmal-sehen-wir-uns-wieder'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'estando-contigo'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'are-you-sure'
+points = 7
+source = 'jury'
+
+[[switzerland]]
+song   = 'nous-les-amoureux'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'neke-davne-zvezde'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'allons-allons-les-enfants'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'are-you-sure'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'nous-aurons-demain'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'al-di-la'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'neke-davne-zvezde'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'estando-contigo'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'angelique'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'nous-les-amoureux'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'valoa-ikkunassa'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'printemps-avril-carillonne'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'nous-aurons-demain'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'estando-contigo'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'sehnsucht'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'allons-allons-les-enfants'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'neke-davne-zvezde'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'nous-les-amoureux'
+points = 5
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'wat-een-dag'
+points = 2
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'al-di-la'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'sommer-i-palma'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'nous-aurons-demain'
+points = 1
+source = 'jury'
+
