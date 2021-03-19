@@ -1,69 +1,83 @@
 [de-vogels-van-holland]
-title   = "De vogels van Holland"
-artist  = 'jetty-paerl'
-country = 'the-netherlands'
+title    = "De vogels van Holland"
+artist   = 'jetty-paerl'
+country  = 'the-netherlands'
+language = ['dutch']
 
 [das-alte-karussell]
-title   = "Das alte Karussell"
-artist  = 'lys-assia'
-country = 'switzerland'
+title    = "Das alte Karussell"
+artist   = 'lys-assia'
+country  = 'switzerland'
+language = ['german']
 
 [messieurs-les-noyes-de-la-seine]
-title   = "Messieurs les noyés de la Seine"
-artist  = 'fud-leclerc'
-country = 'belgium'
+title    = "Messieurs les noyés de la Seine"
+artist   = 'fud-leclerc'
+country  = 'belgium'
+language = ['french']
 
 [im-wartesaal-zum-groen-gluck]
-title   = "Im Wartesaal zum großen Glück"
-artist  = 'walter-andreas-schwarz'
-country = 'germany'
+title    = "Im Wartesaal zum großen Glück"
+artist   = 'walter-andreas-schwarz'
+country  = 'germany'
+language = ['german']
 
 [le-temps-perdu]
-title   = "Le temps perdu"
-artist  = 'mathe-altery'
-country = 'france'
+title    = "Le temps perdu"
+artist   = 'mathe-altery'
+country  = 'france'
+language = ['french']
 
 [ne-crois-pas]
-title   = "Ne crois pas"
-artist  = 'michele-arnaud'
-country = 'luxembourg'
+title    = "Ne crois pas"
+artist   = 'michele-arnaud'
+country  = 'luxembourg'
+language = ['french']
 
 [aprite-le-finestre]
-title   = "Aprite le finestre"
-artist  = 'franca-raimondi'
-country = 'italy'
+title    = "Aprite le finestre"
+artist   = 'franca-raimondi'
+country  = 'italy'
+language = ['italian']
 
 [voorgoed-voorbij]
-title   = "Voorgoed voorbij"
-artist  = 'corry-brokken'
-country = 'the-netherlands'
+title    = "Voorgoed voorbij"
+artist   = 'corry-brokken'
+country  = 'the-netherlands'
+language = ['dutch']
 
 [refrain]
-title   = "Refrain"
-artist  = 'lys-assia'
-country = 'switzerland'
+title    = "Refrain"
+artist   = 'lys-assia'
+country  = 'switzerland'
+language = ['french']
 
 [le-plus-beau-jour-de-ma-vie]
-title   = "Le plus beau jour de ma vie"
-artist  = 'mony-marc'
-country = 'belgium'
+title    = "Le plus beau jour de ma vie"
+artist   = 'mony-marc'
+country  = 'belgium'
+language = ['french']
 
 [so-geht-das-jede-nacht]
-title   = "So geht das jede Nacht"
-artist  = 'freddy-quinn'
-country = 'germany'
+title    = "So geht das jede Nacht"
+artist   = 'freddy-quinn'
+country  = 'germany'
+language = ['german']
 
 [il-est-la]
-title   = "Il est là"
-artist  = 'dany-dauberson'
-country = 'france'
+title    = "Il est là"
+artist   = 'dany-dauberson'
+country  = 'france'
+language = ['french']
 
 [les-amants-de-minuit]
-title   = "Les amants de minuit"
-artist  = 'michele-arnaud'
-country = 'luxembourg'
+title    = "Les amants de minuit"
+artist   = 'michele-arnaud'
+country  = 'luxembourg'
+language = ['french']
 
 [amami-se-vuoi]
-title   = "Amami se vuoi"
-artist  = 'tonina-torrielli'
-country = 'italy'
+title    = "Amami se vuoi"
+artist   = 'tonina-torrielli'
+country  = 'italy'
+language = ['italian']

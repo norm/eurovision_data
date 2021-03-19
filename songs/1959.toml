@@ -1,55 +1,65 @@
 [oui-oui-oui-oui]
-title   = "Oui, Oui, Oui, Oui"
-artist  = 'jean-philippe'
-country = 'france'
+title    = "Oui, Oui, Oui, Oui"
+artist   = 'jean-philippe'
+country  = 'france'
+language = ['french']
 
 [uh-jeg-ville-nske-jeg-var-dig]
-title   = "Uh-jeg Ville Ønske Jeg Var Dig"
-artist  = 'birthe-wilke'
-country = 'denmark'
+title    = "Uh-jeg Ville Ønske Jeg Var Dig"
+artist   = 'birthe-wilke'
+country  = 'denmark'
+language = ['danish']
 
 [piove]
-title   = "Piove"
-artist  = 'domenico-modugno'
-country = 'italy'
+title    = "Piove"
+artist   = 'domenico-modugno'
+country  = 'italy'
+language = ['italian']
 
 [mon-ami-pierrot]
-title   = "Mon Ami Pierrot"
-artist  = 'jacques-pills'
-country = 'monaco'
+title    = "Mon Ami Pierrot"
+artist   = 'jacques-pills'
+country  = 'monaco'
+language = ['french']
 
 [een-beetje]
-title   = "Een Beetje"
-artist  = 'teddy-scholten'
-country = 'the-netherlands'
+title    = "Een Beetje"
+artist   = 'teddy-scholten'
+country  = 'the-netherlands'
+language = ['dutch']
 
 [heut-wolln-wir-tanzen-gehn]
-title   = "Heut' Woll'n Wir Tanzen Geh'n"
-artist  = 'alice-and-ellen-kessler'
-country = 'germany'
+title    = "Heut' Woll'n Wir Tanzen Geh'n"
+artist   = 'alice-and-ellen-kessler'
+country  = 'germany'
+language = ['german']
 
 [augustin]
-title   = "Augustin"
-artist  = 'brita-borg'
-country = 'sweden'
+title    = "Augustin"
+artist   = 'brita-borg'
+country  = 'sweden'
+language = ['swedish']
 
 [irgendwoher]
-title   = "Irgendwoher"
-artist  = 'christa-williams'
-country = 'switzerland'
+title    = "Irgendwoher"
+artist   = 'christa-williams'
+country  = 'switzerland'
+language = ['german']
 
 [der-k-und-k-kalypso-aus-wien]
-title   = "Der K. Und K. Kalypso Aus Wien"
-artist  = 'ferry-graf'
-country = 'austria'
+title    = "Der K. Und K. Kalypso Aus Wien"
+artist   = 'ferry-graf'
+country  = 'austria'
+language = ['german']
 
 [sing-little-birdie]
-title   = "Sing Little Birdie"
-artist  = 'pearl-carr-and-teddy-johnson'
-country = 'united-kingdom'
+title    = "Sing Little Birdie"
+artist   = 'pearl-carr-and-teddy-johnson'
+country  = 'united-kingdom'
+language = ['english']
 
 [hou-toch-van-mij]
-title   = "Hou Toch Van Mij"
-artist  = 'bob-benny'
-country = 'belgium'
-
+title    = "Hou Toch Van Mij"
+artist   = 'bob-benny'
+country  = 'belgium'
+language = ['dutch']

@@ -36,15 +36,18 @@ Eurovision Song Contest, originally used by the
 * `countries.toml`
 
     A set of Country entries, that have taken part in the Eurovision Song
-    Contest. Contains the English version of the country's name, and the
+    Contest. Contains the English version of the country's name, the
     hashtag recognised by Twitter when using "hashflags" to decorate the tweet
     with that country's flag (normally the same as the [three-letter country
-    code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3))
+    code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)), and a list of
+    official languages of that country (as found in the Wikipedia page for
+    the country)
 
     ```toml
     [austria]
-    english = 'Austria'
-    hashtag = 'AUT'
+    english  = 'Austria'
+    hashtag  = 'AUT'
+    language = ['german']
     ```
 
 * `artists/__year__.toml`
@@ -80,14 +83,16 @@ Eurovision Song Contest, originally used by the
 * `songs/__year__.toml`
 
     A list of Song entries, arranged by the year of the Contest in which they
-    were performed. Contains the title, the performing Artist and the Country
-    that the song represented in the Contest.
+    were performed. Contains the title, the performing Artist, the Country
+    that the song represented in the Contest, and the language(s) of the
+    words in the song.
 
     ```toml
     [skibet-skal-sejle-i-nat]
-    title   = 'Skibet skal sejle i nat'
-    artist  = 'birthe-wilke-gustav-winckler'
-    country = 'denmark'
+    title    = 'Skibet skal sejle i nat'
+    artist   = 'birthe-wilke-gustav-winckler'
+    country  = 'denmark'
+    language = ['danish']
     ```
 
 * `shows/__year__.toml`

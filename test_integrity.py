@@ -13,6 +13,8 @@ class TestCountryIntegrity:
             assert entry['english']
             assert 'hashtag' in entry
             assert entry['hashtag']
+            assert 'language' in entry
+            assert len(entry['language']) > 0
 
 
 class TestContestIntegrity:
@@ -95,6 +97,10 @@ class TestArtistIntegrity:
 class TestSongIntegrity:
     def setup_class(self):
         self.countries = toml.load('countries.toml')
+        self.languages = []
+        for country in self.countries:
+            for language in self.countries[country]['language']:
+                self.languages.append(language)
         self.contests = toml.load('contests.toml')
         self.singers = {}
         self.artists = {}
@@ -122,6 +128,12 @@ class TestSongIntegrity:
                 assert 'artist' in entry
                 assert entry['artist']
                 assert entry['artist'] in self.artists
+
+                assert 'language' in entry
+                assert entry['language']
+                assert len(entry['language']) > 0
+                for language in entry['language']:
+                    assert language in self.languages
 
                 assert 'country' in entry
                 country = entry['country']
