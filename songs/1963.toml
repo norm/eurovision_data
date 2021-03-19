@@ -1,0 +1,95 @@
+[say-wonderful-things]
+title    = "Say Wonderful Things"
+artist   = 'ronnie-carroll'
+country  = 'united-kingdom'
+language = ['english']
+
+[een-speeldoos]
+title    = "Een Speeldoos"
+artist   = 'annie-palmen'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[marcel]
+title    = "Marcel"
+artist   = 'heidi-bruhl'
+country  = 'germany'
+language = ['german']
+
+[vielleicht-geschieht-ein-wunder]
+title    = "Vielleicht Geschieht Ein Wunder"
+artist   = 'carmela-corren'
+country  = 'austria'
+language = ['german', 'english']
+
+[solhverv]
+title    = "Solhverv"
+artist   = 'anita-thallaug'
+country  = 'norway'
+language = ['norwegian']
+
+[uno-per-tutte]
+title    = "Uno Per Tutte"
+artist   = 'emilio-pericoli'
+country  = 'italy'
+language = ['italian']
+
+[muistojeni-laulu]
+title    = "Muistojeni Laulu"
+artist   = 'laila-halme'
+country  = 'finland'
+language = ['finnish']
+
+[dansevise]
+title    = "Dansevise"
+artist   = 'grethe-and-jrgen-ingmann'
+country  = 'denmark'
+language = ['danish']
+
+[brodovi]
+title    = "Brodovi"
+artist   = 'vice-vukov'
+country  = 'yugoslavia'
+language = ['serbo-croatian']
+
+[ten-va-pas]
+title    = "T'en Va Pas"
+artist   = 'esther-ofarim'
+country  = 'switzerland'
+language = ['french']
+
+[elle-etait-si-jolie]
+title    = "Elle était Si Jolie"
+artist   = 'alain-barriere'
+country  = 'france'
+language = ['french']
+
+[algo-prodigioso]
+title    = "Algo Prodigioso"
+artist   = 'jose-guardiola'
+country  = 'spain'
+language = ['spanish']
+
+[en-gang-i-stockholm]
+title    = "En Gång I Stockholm"
+artist   = 'monica-zetterlund'
+country  = 'sweden'
+language = ['swedish']
+
+[waarom]
+title    = "Waarom"
+artist   = 'jacques-raymond'
+country  = 'belgium'
+language = ['dutch']
+
+[lamour-sen-va]
+title    = "L'amour S'en Va"
+artist   = 'francoise-hardy'
+country  = 'monaco'
+language = ['french']
+
+[a-force-de-prier]
+title    = "A Force De Prier"
+artist   = 'nana-mouskouri'
+country  = 'luxembourg'
+language = ['french']

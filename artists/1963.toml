@@ -1,0 +1,59 @@
+[annie-palmen]
+name   = 'Annie Palmen'
+singer = ['annie-palmen']
+
+[heidi-bruhl]
+name   = 'Heidi Brühl'
+singer = ['heidi-bruhl']
+
+[carmela-corren]
+name   = 'Carmela Corren'
+singer = ['carmela-corren']
+
+[anita-thallaug]
+name   = 'Anita Thallaug'
+singer = ['anita-thallaug']
+
+[emilio-pericoli]
+name   = 'Emilio Pericoli'
+singer = ['emilio-pericoli']
+
+[laila-halme]
+name   = 'Laila Halme'
+singer = ['laila-halme']
+
+[grethe-and-jrgen-ingmann]
+name   = 'Grethe and Jørgen Ingmann'
+singer = ['grethe-ingmann', 'jrgen-ingmann']
+
+[vice-vukov]
+name   = 'Vice Vukov'
+singer = ['vice-vukov']
+
+[esther-ofarim]
+name   = 'Esther Ofarim'
+singer = ['esther-ofarim']
+
+[alain-barriere]
+name   = 'Alain Barrière'
+singer = ['alain-barriere']
+
+[jose-guardiola]
+name   = 'José Guardiola'
+singer = ['jose-guardiola']
+
+[monica-zetterlund]
+name   = 'Monica Zetterlund'
+singer = ['monica-zetterlund']
+
+[jacques-raymond]
+name   = 'Jacques Raymond'
+singer = ['jacques-raymond']
+
+[francoise-hardy]
+name   = 'Françoise Hardy'
+singer = ['francoise-hardy']
+
+[nana-mouskouri]
+name   = 'Nana Mouskouri'
+singer = ['nana-mouskouri']

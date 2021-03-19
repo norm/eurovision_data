@@ -254,6 +254,8 @@ class TestScoresIntegrity:
                         assert points <= 10
                     if year == 1962:
                         assert points in (1, 2, 3)
+                    if year == 1963:
+                        assert points in (1, 2, 3, 4, 5)
 
                     assert 'source' in score
                     assert score['source'] in ['jury', 'televote']
@@ -262,3 +264,5 @@ class TestScoresIntegrity:
                     assert total == 10
                 if year == 1962:
                     assert total == 6
+                if year == 1963:
+                    assert total == 15

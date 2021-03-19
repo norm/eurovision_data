@@ -1,0 +1,101 @@
+[annie-palmen]
+name        = 'Anna Maria Palmen'
+known_as    = 'Annie Palmen'
+born        = 1926-08-19
+died        = 2000-01-15
+citizenship = ['the-netherlands']
+
+[heidi-bruhl]
+name        = 'Heidi Rosemarie Brühl'
+known_as    = 'Heidi Brühl'
+born        = 1942-01-30
+died        = 1991-06-08
+citizenship = ['germany']
+
+[carmela-corren]
+name        = 'Carmela Corren'
+known_as    = 'Carmela Corren'
+born        = 1938-02-13
+citizenship = ['israel']
+
+[anita-thallaug]
+name        = 'Anita Thallaug'
+known_as    = 'Anita Thallaug'
+born        = 1938-02-14
+citizenship = ['norway']
+
+[emilio-pericoli]
+name        = 'Emilio Pericoli'
+born        = 1928-01-07
+died        = 2013-04-09
+citizenship = ['italy']
+
+[laila-halme]
+name        = 'Laila Sinikka Halme'
+known_as    = 'Laila Halme'
+born        = 1934-03-04
+citizenship = ['finland']
+
+[grethe-ingmann]
+name        = 'Grethe Ingmann'
+# born        = 1938
+died        = 1990-08-18
+citizenship = ['denmark']
+
+[jrgen-ingmann]
+name        = 'Jørgen Ingmann'
+born        = 1925-04-26
+died        = 2015-03-21
+citizenship = ['denmark']
+
+[vice-vukov]
+name        = 'Vinko Vukov'
+known_as    = 'Vice Vukov'
+born        = 1936-08-03
+died        = 2008-09-24
+citizenship = ['yugoslavia']
+
+[esther-ofarim]
+name        = 'Esther Zaied'
+known_as    = 'Esther Ofarim'
+born        = 1941-06-13
+citizenship = ['israel']
+
+[alain-barriere]
+name        = 'Alain Bellec'
+known_as    = 'Alain Barrière'
+born        = 1935-11-18
+died        = 2019-12-18
+citizenship = ['france']
+
+[jose-guardiola]
+name        = 'José Guardiola Díaz de Rada'
+known_as    = 'José Guardiola'
+born        = 1930-10-22
+died        = 2012-04-09
+citizenship = ['spain']
+
+[monica-zetterlund]
+name        = 'Eva Monica Nilsson'
+known_as    = 'Monica Zetterlund'
+born        = 1937-09-20
+died        = 2005-05-12
+citizenship = ['sweden']
+
+[jacques-raymond]
+name        = 'Jozef Remon'
+known_as    = 'Jacques Raymond'
+born        = 1938-10-13
+citizenship = ['belgium']
+
+[francoise-hardy]
+name        = 'Françoise Madeleine Hardy'
+known_as    = 'Françoise Hardy'
+born        = 1944-01-17
+citizenship = ['france']
+
+[nana-mouskouri]
+name        = 'Ioanna Mouskouri'        # Ιωάννα "Νάνα" Μούσχουρη
+known_as    = 'Nana Mouskouri'
+born        = 1934-10-13
+citizenship = ['greece']
