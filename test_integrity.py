@@ -207,19 +207,27 @@ class TestScoresIntegrity:
 
     def test_scores(self):
         for show in self.shows:
+            year = int(show.split('-')[0])
             scores = toml.load('scores/%s.toml' % show)
             for country in scores:
                 assert country in self.countries
+                total = 0
 
                 for score in scores[country]:
                     assert 'song' in score
                     assert score['song'] in self.songs
 
                     assert 'points' in score
-                    assert type(score['points']) == int
-                    assert score['points'] <= 12
-                    assert score['points'] != 11
-                    assert score['points'] > 0
+                    points = score['points']
+                    assert type(points) == int
+                    total += points
+
+                    assert points > 0
+                    if year >= 1957 and year <= 1961:
+                        assert points <= 10
 
                     assert 'source' in score
                     assert score['source'] in ['jury', 'televote']
+
+                if year >= 1957 and year <= 1961:
+                    assert total == 10
