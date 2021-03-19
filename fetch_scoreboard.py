@@ -51,6 +51,8 @@ if year not in contests:
 if 'shows' not in contests[year]:
     contests[year]['shows'] = []
 contests[year]['shows'].append('%s-%s' % (year, show))
+with open('contests.toml', 'w') as contests_handle:
+    toml.dump(contests, contests_handle)
 
 countries_handle = open('countries.toml', 'a')
 artists_handle   = open('artists/%s.toml' % year, 'a+')

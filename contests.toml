@@ -1,27 +1,27 @@
 [1956]
-host  = 'switzerland'
-shows = ['1956-final']
+host = "switzerland"
+shows = [ "1956-final",]
 
 [1957]
-host = 'germany'
-shows = ['1957-final']
+host = "germany"
+shows = [ "1957-final",]
 
 [1958]
-host = 'the-netherlands'
-shows = ['1958-final']
+host = "the-netherlands"
+shows = [ "1958-final",]
 
 [1959]
-host = 'france'
-shows = ['1959-final']
+host = "france"
+shows = [ "1959-final",]
 
 [1960]
-host = 'united-kingdom'
-shows = ['1960-final']
+host = "united-kingdom"
+shows = [ "1960-final",]
 
 [1961]
-host = 'france'
-shows = ['1961-final']
+host = "france"
+shows = [ "1961-final",]
 
 [1962]
-host = 'luxembourg'
-shows = ['1962-final']
+host = "luxembourg"
+shows = [ "1962-final",]
