@@ -225,9 +225,13 @@ class TestScoresIntegrity:
                     assert points > 0
                     if year >= 1957 and year <= 1961:
                         assert points <= 10
+                    if year == 1962:
+                        assert points in (1, 2, 3)
 
                     assert 'source' in score
                     assert score['source'] in ['jury', 'televote']
 
                 if year >= 1957 and year <= 1961:
                     assert total == 10
+                if year == 1962:
+                    assert total == 6

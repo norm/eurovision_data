@@ -1,0 +1,95 @@
+[tipi-tii]
+title    = "Tipi-tii"
+artist   = 'marion-rung'
+country  = 'finland'
+language = ['finnish']
+
+[ton-nom]
+title    = "Ton Nom"
+artist   = 'fud-leclerc'
+country  = 'belgium'
+language = ['french']
+
+[llamame]
+title    = "Llámame"
+artist   = 'victor-balaguer'
+country  = 'spain'
+language = ['spanish']
+
+[nur-in-der-wiener-luft]
+title    = "Nur In Der Wiener Luft"
+artist   = 'eleonore-schwarz'
+country  = 'austria'
+language = ['german']
+
+[vuggevise]
+title    = "Vuggevise"
+artist   = 'ellen-winther'
+country  = 'denmark'
+language = ['danish']
+
+[sol-och-var]
+title    = "Sol Och Vår"
+artist   = 'inger-berggren'
+country  = 'sweden'
+language = ['swedish']
+
+[zwei-kleine-italiener]
+title    = "Zwei Kleine Italiener"
+artist   = 'conny-froboess'
+country  = 'germany'
+language = ['german']
+
+[katinka]
+title    = "Katinka"
+artist   = 'de-spelbrekers'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[un-premier-amour]
+title    = "Un Premier Amour"
+artist   = 'isabelle-aubret'
+country  = 'france'
+language = ['french']
+
+[kom-sol-kom-regn]
+title    = "Kom Sol, Kom Regn"
+artist   = 'inger-jacobsen'
+country  = 'norway'
+language = ['norwegian']
+
+[le-retour]
+title    = "Le Retour"
+artist   = 'jean-philippe'
+country  = 'switzerland'
+language = ['french']
+
+[ne-pali-svetlo-u-sumrak]
+title    = "Ne Pali Svetlo U Sumrak"
+artist   = 'lola-novakovic'
+country  = 'yugoslavia'
+language = ['serbo-croatian']
+
+[ring-a-ding-girl]
+title    = "Ring-a-ding Girl"
+artist   = 'ronnie-carroll'
+country  = 'united-kingdom'
+language = ['english']
+
+[petit-bonhomme]
+title    = "Petit Bonhomme"
+artist   = 'camillo-felgen'
+country  = 'luxembourg'
+language = ['french']
+
+[addio-addio]
+title    = "Addio, Addio"
+artist   = 'claudio-villa'
+country  = 'italy'
+language = ['italian']
+
+[dis-rien]
+title    = "Dis Rien"
+artist   = 'francois-deguelt'
+country  = 'monaco'
+language = ['french']

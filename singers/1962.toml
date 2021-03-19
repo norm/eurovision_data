@@ -1,0 +1,78 @@
+[marion-rung]
+name        = 'Marion Rung'
+born        = 1945-12-07
+citizenship = ['finland']
+
+[victor-balaguer]
+name        = 'Victor Balaguer'
+born        = 1921-04-16
+died        = 1984-04-17
+citizenship = ['spain']
+
+[eleonore-schwarz]
+name        = 'Eleonore Schwarz'
+# born        = 1936
+citizenship = ['austria']
+
+[ellen-winther]
+name        = 'Ellen Winther Lembourn'
+known_as    = 'Ellen Winther'
+born        = 1933-08-11
+died        = 2011-08-13
+citizenship = ['denmark']
+
+[inger-berggren]
+name        = 'Inger Berggren'
+born        = 1934-02-23
+died        = 2019-07-19
+citizenship = ['sweden']
+
+[conny-froboess]
+name        = 'Cornelia Froboess'
+known_as    = 'Conny Froboess'
+born        = 1943-10-28
+citizenship = ['germany']
+
+[theo-rekkers]
+name        = 'Theo Rekkers'
+born        = 1924-04-24
+died        = 2012-04-20
+citizenship = ['the-netherlands']
+
+[huug-kok]
+name        = 'Huug Kok'
+born        = 1918-02-19
+died        = 2011-10-27
+citizenship = ['the-netherlands']
+
+[isabelle-aubret]
+name        = 'Isabelle Aubret'
+born        = 1938-07-27
+citizenship = ['france']
+
+[inger-jacobsen]
+name        = 'Inger Jacobsen'
+born        = 1923-10-13
+died        = 1996-07-21
+citizenship = ['norway']
+
+[lola-novakovic]
+name        = 'Zorana Novaković'
+known_as    = 'Lola Novaković'
+born        = 1935-04-25
+died        = 2016-04-03
+citizenship = ['yugoslavia']
+
+[ronnie-carroll]
+name        = 'Ronald Cleghorn'
+known_as    = 'Ronnie Carroll'
+born        = 1934-08-18
+died        = 2015-04-13
+citizenship = ['united-kingdom']
+
+[claudio-villa]
+name        = 'Claudio Pica'
+known_as    = 'Claudio Villa'
+born        = 1926-01-01
+died        = 1987-02-07
+citizenship = ['italy']
