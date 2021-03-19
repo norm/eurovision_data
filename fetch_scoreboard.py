@@ -82,7 +82,7 @@ for row in board.select('tbody tr'):
     if artist_slug not in artists:
         artists_handle.write("[%s]\n" % artist_slug)
         artists_handle.write("name   = '%s'\n" % artist)
-        artists_handle.write("singer = ['%s']\n\n" % artist)
+        artists_handle.write("singer = ['%s']\n\n" % artist_slug)
 
     if artist_slug not in singers:
         singers_handle.write('[%s]\n' % artist_slug)
