@@ -1,0 +1,28 @@
+#!/usr/bin/env bash -euo pipefail
+
+venue="$1"
+year="$2"
+show="$3"
+
+
+function edit_if_diff {
+    local file="$1"
+
+    git add -N $file
+    printf '\e[35m** %s\e[0m\n' $file
+    git diff --exit-code $file || \
+        subl -w $file
+}
+
+
+python fetch_scoreboard.py $venue $year $show
+
+edit_if_diff countries.toml
+edit_if_diff contests.toml
+edit_if_diff shows/$year.toml
+edit_if_diff artists/$year.toml
+edit_if_diff singers/$year.toml
+edit_if_diff songs/$year.toml
+edit_if_diff scores/$year-$show.toml
+
+pytest
