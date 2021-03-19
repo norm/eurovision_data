@@ -26,9 +26,13 @@ hashtag = 'ITA'
 english = 'Luxembourg'
 hashtag = 'LUX'
 
-[netherlands]
+[the-netherlands]
 english = 'The Netherlands'
 hashtag = 'NLD'
+
+[sweden]
+english = 'Sweden'
+hashtag = 'SWE'
 
 [switzerland]
 english = 'Switzerland'

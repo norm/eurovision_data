@@ -1,0 +1,23 @@
+[domenico-modugno]
+name   = 'Domenico Modugno'
+singer = ['domenico-modugno']
+
+[andre-claveau]
+name   = 'André Claveau'
+singer = ['andre-claveau']
+
+[solange-berry]
+name   = 'Solange Berry'
+singer = ['solange-berry']
+
+[alice-babs]
+name   = 'Alice Babs'
+singer = ['alice-babs']
+
+[raquel-rastenni]
+name   = 'Raquel Rastenni'
+singer = ['raquel-rastenni']
+
+[liane-augustin]
+name   = 'Liane Augustin'
+singer = ['liane-augustin']

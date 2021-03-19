@@ -3,7 +3,7 @@ name        = 'Henriette Nanette Paerl'
 known_as    = 'Jetty Paerl'
 born        = 1921-05-27
 died        = 2013-08-22
-citizenship = ['netherlands']
+citizenship = ['the-netherlands']
 
 [lys-assia]
 name        = 'Rosa Mina Schärer'
@@ -49,7 +49,7 @@ name        = 'Cornelia Maria Brokken'
 known_as    = 'Corry Brokken'
 born        = 1932-12-03
 died        = 2016-05-31
-citizenship = ['netherlands']
+citizenship = ['the-netherlands']
 
 [mony-marc]
 name        = 'Mony Marc'
