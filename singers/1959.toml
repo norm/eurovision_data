@@ -1,0 +1,70 @@
+[jean-philippe]
+name        = 'Jean Philippe Gargantiel'
+known_as    = 'Jean Philippe'
+# born        = 1930
+citizenship = ['france']
+
+[jacques-pills]
+name        = 'René Jacques Ducos'
+known_as    = 'Jacques Pills'
+born        = 1906-01-07
+died        = 1970-09-12
+citizenship = ['france']
+
+[teddy-scholten]
+name        = 'Dorothea Margaretha Scholten'
+known_as    = 'Teddy Scholten'
+born        = 1926-05-11
+died        = 2010-04-08
+citizenship = ['the-netherlands']
+
+[alice-kessler]
+name        = 'Alice Kessler'
+born        = 1936-08-20
+citizenship = ['germany']
+
+[ellen-kessler]
+name        = 'Ellen Kessler'
+born        = 1936-08-20
+citizenship = ['germany']
+
+[brita-borg]
+name        = 'Brita Kerstin Gunvor Borg'
+known_as    = 'Brita Borg'
+born        = 1926-06-10
+died        = 2010-05-04
+citizenship = ['sweden']
+
+[christa-williams]
+name        = 'Christa Bojarzin'
+known_as    = 'Christa Williams'
+born        = 1926-02-05
+died        = 2012-07-28        # or -29
+citizenship = ['germany']
+
+[ferry-graf]
+name        = 'Ferry Graf'
+known_as    = 'Ferry Graf'
+born        = 1931-12-14
+citizenship = ['austria']
+
+[pearl-carr]
+name        = 'Pearl Lavinia Carr'
+known_as    = 'Pearl Carr'
+born        = 1921-11-02
+died        = 2020-02-16
+citizenship = ['united-kingdom']
+
+[teddy-johnson]
+name        = 'Edward Victor Johnson'
+known_as    = 'Teddy Johnson'
+born        = 1919-09-04
+died        = 2018-06-06
+citizenship = ['united-kingdom']
+
+[bob-benny]
+name        = 'Emilius Wagemans'
+known_as    = 'Bob Benny'
+born        = 1926-05-18
+died        = 2011-03-29
+citizenship = ['belgium']

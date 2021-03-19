@@ -1,0 +1,275 @@
+[[austria]]
+song   = 'een-beetje'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'sing-little-birdie'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'irgendwoher'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'mon-ami-pierrot'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'oui-oui-oui-oui'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'een-beetje'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'sing-little-birdie'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'oui-oui-oui-oui'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'irgendwoher'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'heut-wolln-wir-tanzen-gehn'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'piove'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'oui-oui-oui-oui'
+points = 4
+source = 'jury'
+
+[[denmark]]
+song   = 'hou-toch-van-mij'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'irgendwoher'
+points = 2
+source = 'jury'
+
+[[denmark]]
+song   = 'sing-little-birdie'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'augustin'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'een-beetje'
+points = 4
+source = 'jury'
+
+[[france]]
+song   = 'piove'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'heut-wolln-wir-tanzen-gehn'
+points = 2
+source = 'jury'
+
+[[france]]
+song   = 'sing-little-birdie'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'oui-oui-oui-oui'
+points = 4
+source = 'jury'
+
+[[germany]]
+song   = 'hou-toch-van-mij'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'een-beetje'
+points = 2
+source = 'jury'
+
+[[germany]]
+song   = 'irgendwoher'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'een-beetje'
+points = 7
+source = 'jury'
+
+[[italy]]
+song   = 'heut-wolln-wir-tanzen-gehn'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'oui-oui-oui-oui'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'sing-little-birdie'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'oui-oui-oui-oui'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'irgendwoher'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'een-beetje'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'hou-toch-van-mij'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'piove'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'der-k-und-k-kalypso-aus-wien'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'irgendwoher'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'der-k-und-k-kalypso-aus-wien'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'piove'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'sing-little-birdie'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'piove'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'der-k-und-k-kalypso-aus-wien'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'heut-wolln-wir-tanzen-gehn'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'oui-oui-oui-oui'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'sing-little-birdie'
+points = 5
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'augustin'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'hou-toch-van-mij'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'irgendwoher'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'hou-toch-van-mij'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'uh-jeg-ville-nske-jeg-var-dig'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'een-beetje'
+points = 1
+source = 'jury'
+
