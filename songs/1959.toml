@@ -1,55 +1,54 @@
 [oui-oui-oui-oui]
-title   = "Oui, Oui, Oui, Oui"
-artist  = 'jean-philippe'
-country = 'france'
+title    = "Oui, Oui, Oui, Oui"
+artist   = 'jean-philippe'
+country  = 'france'
 
 [uh-jeg-ville-nske-jeg-var-dig]
-title   = "Uh-jeg Ville Ønske Jeg Var Dig"
-artist  = 'birthe-wilke'
-country = 'denmark'
+title    = "Uh-jeg Ville Ønske Jeg Var Dig"
+artist   = 'birthe-wilke'
+country  = 'denmark'
 
 [piove]
-title   = "Piove"
-artist  = 'domenico-modugno'
-country = 'italy'
+title    = "Piove"
+artist   = 'domenico-modugno'
+country  = 'italy'
 
 [mon-ami-pierrot]
-title   = "Mon Ami Pierrot"
-artist  = 'jacques-pills'
-country = 'monaco'
+title    = "Mon Ami Pierrot"
+artist   = 'jacques-pills'
+country  = 'monaco'
 
 [een-beetje]
-title   = "Een Beetje"
-artist  = 'teddy-scholten'
-country = 'the-netherlands'
+title    = "Een Beetje"
+artist   = 'teddy-scholten'
+country  = 'the-netherlands'
 
 [heut-wolln-wir-tanzen-gehn]
-title   = "Heut' Woll'n Wir Tanzen Geh'n"
-artist  = 'alice-and-ellen-kessler'
-country = 'germany'
+title    = "Heut' Woll'n Wir Tanzen Geh'n"
+artist   = 'alice-and-ellen-kessler'
+country  = 'germany'
 
 [augustin]
-title   = "Augustin"
-artist  = 'brita-borg'
-country = 'sweden'
+title    = "Augustin"
+artist   = 'brita-borg'
+country  = 'sweden'
 
 [irgendwoher]
-title   = "Irgendwoher"
-artist  = 'christa-williams'
-country = 'switzerland'
+title    = "Irgendwoher"
+artist   = 'christa-williams'
+country  = 'switzerland'
 
 [der-k-und-k-kalypso-aus-wien]
-title   = "Der K. Und K. Kalypso Aus Wien"
-artist  = 'ferry-graf'
-country = 'austria'
+title    = "Der K. Und K. Kalypso Aus Wien"
+artist   = 'ferry-graf'
+country  = 'austria'
 
 [sing-little-birdie]
-title   = "Sing Little Birdie"
-artist  = 'pearl-carr-and-teddy-johnson'
-country = 'united-kingdom'
+title    = "Sing Little Birdie"
+artist   = 'pearl-carr-and-teddy-johnson'
+country  = 'united-kingdom'
 
 [hou-toch-van-mij]
-title   = "Hou Toch Van Mij"
-artist  = 'bob-benny'
-country = 'belgium'
-
+title    = "Hou Toch Van Mij"
+artist   = 'bob-benny'
+country  = 'belgium'

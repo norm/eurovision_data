@@ -1,47 +1,47 @@
 [austria]
-english = 'Austria'
-hashtag = 'AUT'
+english  = 'Austria'
+hashtag  = 'AUT'
 
 [belgium]
-english = 'Belgium'
-hashtag = 'BEL'
+english  = 'Belgium'
+hashtag  = 'BEL'
 
 [denmark]
-english = 'Denmark'
-hashtag = 'DNK'
+english  = 'Denmark'
+hashtag  = 'DNK'
 
 [france]
-english = 'France'
-hashtag = 'FRA'
+english  = 'France'
+hashtag  = 'FRA'
 
 [germany]
-english = 'Germany'
-hashtag = 'GER'
+english  = 'Germany'
+hashtag  = 'GER'
 
 [italy]
-english = 'Italy'
-hashtag = 'ITA'
+english  = 'Italy'
+hashtag  = 'ITA'
 
 [luxembourg]
-english = 'Luxembourg'
-hashtag = 'LUX'
+english  = 'Luxembourg'
+hashtag  = 'LUX'
 
 [monaco]
-english = 'Monaco'
-hashtag = 'MCO'
+english  = 'Monaco'
+hashtag  = 'MCO'
 
 [the-netherlands]
-english = 'The Netherlands'
-hashtag = 'NLD'
+english  = 'The Netherlands'
+hashtag  = 'NLD'
 
 [sweden]
-english = 'Sweden'
-hashtag = 'SWE'
+english  = 'Sweden'
+hashtag  = 'SWE'
 
 [switzerland]
-english = 'Switzerland'
-hashtag = 'CHE'
+english  = 'Switzerland'
+hashtag  = 'CHE'
 
 [united-kingdom]
-english = 'United Kingdom'
-hashtag = 'GBR'
+english  = 'United Kingdom'
+hashtag  = 'GBR'
