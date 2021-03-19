@@ -78,8 +78,9 @@ for row in board.select('tbody tr'):
 
     if country_slug not in countries:
         countries_handle.write("\n[%s]\n" % country_slug)
-        countries_handle.write("english = '%s'\n" % country)
-        countries_handle.write("hashtag = ''\n\n")
+        countries_handle.write("english  = '%s'\n" % country)
+        countries_handle.write("hashtag  = ''\n\n")
+        countries_handle.write("language = ['xx']\n\n")
 
     if artist_slug not in artists:
         artists_handle.write("[%s]\n" % artist_slug)
