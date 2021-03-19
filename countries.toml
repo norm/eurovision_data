@@ -1,47 +1,59 @@
 [austria]
 english  = 'Austria'
 hashtag  = 'AUT'
+language = ['german']
 
 [belgium]
 english  = 'Belgium'
 hashtag  = 'BEL'
+language = ['belgian', 'dutch', 'german']
 
 [denmark]
 english  = 'Denmark'
 hashtag  = 'DNK'
+language = ['danish', 'faroese', 'greenlandic', 'german']
 
 [france]
 english  = 'France'
 hashtag  = 'FRA'
+language = ['french']
 
 [germany]
 english  = 'Germany'
 hashtag  = 'GER'
+language = ['german']
 
 [italy]
 english  = 'Italy'
 hashtag  = 'ITA'
+language = ['italian']
 
 [luxembourg]
 english  = 'Luxembourg'
 hashtag  = 'LUX'
+language = ['luxembourgish', 'french', 'german']
 
 [monaco]
 english  = 'Monaco'
 hashtag  = 'MCO'
+language = ['french']
 
 [the-netherlands]
 english  = 'The Netherlands'
 hashtag  = 'NLD'
+language = ['dutch']
 
 [sweden]
 english  = 'Sweden'
 hashtag  = 'SWE'
+language = ['swedish']
 
 [switzerland]
 english  = 'Switzerland'
 hashtag  = 'CHE'
+language = ['german', 'french', 'italian']
 
 [united-kingdom]
 english  = 'United Kingdom'
 hashtag  = 'GBR'
+language = ['english']
