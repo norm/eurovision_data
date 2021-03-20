@@ -250,19 +250,31 @@ class TestScoresIntegrity:
                     total += points
 
                     assert points > 0
-                    if year >= 1957 and year <= 1961:
+                    if year == 1956:
+                        pass
+                    elif year >= 1957 and year <= 1961:
                         assert points <= 10
-                    if year == 1962:
+                    elif year == 1962:
                         assert points in (1, 2, 3)
-                    if year == 1963:
+                    elif year == 1963:
                         assert points in (1, 2, 3, 4, 5)
+                    elif year >= 1964 and year <= 1966:
+                        assert points in (1, 3, 5, 6, 9)
+                    else:
+                        raise UnknownYear
 
                     assert 'source' in score
                     assert score['source'] in ['jury', 'televote']
 
-                if year >= 1957 and year <= 1961:
+                if year == 1956:
+                    pass
+                elif year >= 1957 and year <= 1961:
                     assert total == 10
-                if year == 1962:
+                elif year == 1962:
                     assert total == 6
-                if year == 1963:
+                elif year == 1963:
                     assert total == 15
+                elif year >= 1964 and year <= 1966:
+                    assert total == 9
+                else:
+                    raise UnknownYear
