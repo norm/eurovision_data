@@ -41,3 +41,7 @@ shows = [ "1965-final",]
 [1966]
 host = "luxembourg"
 shows = [ "1966-final",]
+
+[1967]
+host = "austria"
+shows = [ "1967-final",]

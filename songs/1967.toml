@@ -1,0 +1,102 @@
+[ring-dinge]
+title    = "Ring-dinge"
+artist   = 'therese-steinmetz'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[lamour-est-bleu]
+title    = "L'amour Est Bleu"
+artist   = 'vicky'
+country  = 'luxembourg'
+language = ['french']
+
+[warum-es-hunderttausend-sterne-gibt]
+title    = "Warum Es Hunderttausend Sterne Gibt"
+artist   = 'peter-horten'
+country  = 'austria'
+language = ['german']
+
+[il-doit-faire-beau-la-bas]
+title    = "Il Doit Faire Beau Là-bas"
+artist   = 'noelle-cordier'
+country  = 'france'
+language = ['french']
+
+[o-vento-mudou]
+title    = "O Vento Mudou"
+artist   = 'eduardo-nascimento'
+country  = 'portugal'
+language = ['portugese']
+
+[quel-coeur-vas-tu-briser]
+title    = "Quel Coeur Vas-tu Briser?"
+artist   = 'geraldine'
+country  = 'switzerland'
+language = ['french']
+
+[som-en-drom]
+title    = "Som En Dröm"
+artist   = 'osten-warnebring'
+country  = 'sweden'
+language = ['swedish']
+
+[varjoon-suojaan]
+title    = "Varjoon-suojaan"
+artist   = 'fredi'
+country  = 'finland'
+language = ['finnish']
+
+[anouschka]
+title    = "Anouschka"
+artist   = 'inge-bruck'
+country  = 'germany'
+language = ['german']
+
+[ik-heb-zorgen]
+title    = "Ik Heb Zorgen"
+artist   = 'louis-neefs'
+country  = 'belgium'
+language = ['dutch']
+
+[puppet-on-a-string]
+title    = "Puppet On A String"
+artist   = 'sandie-shaw'
+country  = 'united-kingdom'
+language = ['english']
+
+[hablemos-del-amor]
+title    = "Hablemos Del Amor"
+artist   = 'raphael'
+country  = 'spain'
+language = ['spanish']
+
+[dukkemann]
+title    = "Dukkemann"
+artist   = 'kirsti-sparboe'
+country  = 'norway'
+language = ['norwegian']
+
+[boum-badaboum]
+title    = "Boum-badaboum"
+artist   = 'minouche-barelli'
+country  = 'monaco'
+language = ['french']
+
+[vse-roze-sveta]
+title    = "Vse Roze Sveta"
+artist   = 'lado-leskovar'
+country  = 'yugoslavia'
+language = ['slovene']
+
+[non-andare-piu-lontano]
+title    = "Non Andare Più Lontano"
+artist   = 'claudio-villa'
+country  = 'italy'
+language = ['italian']
+
+[if-i-could-choose]
+title    = "If I Could Choose"
+artist   = 'sean-dunphy'
+country  = 'ireland'
+language = ['english']
+

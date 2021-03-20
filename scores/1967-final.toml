@@ -1,0 +1,480 @@
+[[austria]]
+song   = 'puppet-on-a-string'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'if-i-could-choose'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'boum-badaboum'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'hablemos-del-amor'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'puppet-on-a-string'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'if-i-could-choose'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'lamour-est-bleu'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'hablemos-del-amor'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'vse-roze-sveta'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'ik-heb-zorgen'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'lamour-est-bleu'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'puppet-on-a-string'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'if-i-could-choose'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'som-en-drom'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'puppet-on-a-string'
+points = 7
+source = 'jury'
+
+[[france]]
+song   = 'o-vento-mudou'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'boum-badaboum'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'vse-roze-sveta'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'if-i-could-choose'
+points = 4
+source = 'jury'
+
+[[germany]]
+song   = 'puppet-on-a-string'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 2
+source = 'jury'
+
+[[germany]]
+song   = 'ik-heb-zorgen'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'lamour-est-bleu'
+points = 2
+source = 'jury'
+
+[[ireland]]
+song   = 'som-en-drom'
+points = 2
+source = 'jury'
+
+[[ireland]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'ik-heb-zorgen'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'puppet-on-a-string'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'ring-dinge'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'non-andare-piu-lontano'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'lamour-est-bleu'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'puppet-on-a-string'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'varjoon-suojaan'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'boum-badaboum'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'vse-roze-sveta'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'if-i-could-choose'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'puppet-on-a-string'
+points = 5
+source = 'jury'
+
+[[luxembourg]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 2
+source = 'jury'
+
+[[luxembourg]]
+song   = 'hablemos-del-amor'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'vse-roze-sveta'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'if-i-could-choose'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'puppet-on-a-string'
+points = 3
+source = 'jury'
+
+[[monaco]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'hablemos-del-amor'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'if-i-could-choose'
+points = 2
+source = 'jury'
+
+[[monaco]]
+song   = 'lamour-est-bleu'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'puppet-on-a-string'
+points = 7
+source = 'jury'
+
+[[norway]]
+song   = 'som-en-drom'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'hablemos-del-amor'
+points = 2
+source = 'jury'
+
+[[portugal]]
+song   = 'som-en-drom'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'varjoon-suojaan'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'ik-heb-zorgen'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'puppet-on-a-string'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'vse-roze-sveta'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'warum-es-hunderttausend-sterne-gibt'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'if-i-could-choose'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'boum-badaboum'
+points = 5
+source = 'jury'
+
+[[spain]]
+song   = 'vse-roze-sveta'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'lamour-est-bleu'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'o-vento-mudou'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'non-andare-piu-lontano'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'if-i-could-choose'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'puppet-on-a-string'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'dukkemann'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'boum-badaboum'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'puppet-on-a-string'
+points = 7
+source = 'jury'
+
+[[switzerland]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'o-vento-mudou'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'non-andare-piu-lontano'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'lamour-est-bleu'
+points = 4
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'puppet-on-a-string'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'varjoon-suojaan'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'hablemos-del-amor'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'dukkemann'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'lamour-est-bleu'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'if-i-could-choose'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'non-andare-piu-lontano'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'anouschka'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'ring-dinge'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'ik-heb-zorgen'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'il-doit-faire-beau-la-bas'
+points = 4
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'warum-es-hunderttausend-sterne-gibt'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'lamour-est-bleu'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'ik-heb-zorgen'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'hablemos-del-amor'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'if-i-could-choose'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'som-en-drom'
+points = 1
+source = 'jury'
+
