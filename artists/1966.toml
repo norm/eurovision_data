@@ -1,0 +1,67 @@
+[margot-eskens]
+name   = 'Margot Eskens'
+singer = ['margot-eskens']
+
+[ulla-pia]
+name   = 'Ulla Pia'
+singer = ['ulla-pia']
+
+[tonia]
+name   = 'Tonia'
+singer = ['tonia']
+
+[michele-torr]
+name   = 'Michèle Torr'
+singer = ['michele-torr']
+
+[berta-ambroz]
+name   = 'Berta Ambroz'
+singer = ['berta-ambroz']
+
+[ase-kleveland]
+name   = 'Åse Kleveland'
+singer = ['ase-kleveland']
+
+[ann-christine-nystrom]
+name   = 'Ann-Christine Nyström'
+singer = ['ann-christine-nystrom']
+
+[madalena-iglesias]
+name   = 'Madalena Iglesias'
+singer = ['madalena-iglesias']
+
+[lill-lindfors-and-svante-thuresson]
+name   = 'Lill Lindfors & Svante Thuresson'
+singer = [
+    'lill-lindfors',
+    'svante-thuresson',
+]
+
+[raphael]
+name   = 'Raphael'
+singer = ['raphael']
+
+[madeleine-pascal]
+name   = 'Madeleine Pascal'
+singer = ['madeleine-pascal']
+
+[tereza]
+name   = 'Tereza'
+singer = ['tereza']
+
+[dominique-walter]
+name   = 'Dominique Walter'
+singer = ['dominique-walter']
+
+[milly-scott]
+name   = 'Milly Scott'
+singer = ['milly-scott']
+
+[dickie-rock]
+name   = 'Dickie Rock'
+singer = ['dickie-rock']
+
+[kenneth-mckellar]
+name   = 'Kenneth McKellar'
+singer = ['kenneth-mckellar']
+

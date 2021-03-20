@@ -1,0 +1,270 @@
+[[austria]]
+song   = 'ne-vois-tu-pas'
+points = 5
+source = 'jury'
+
+[[austria]]
+song   = 'intet-er-nytt-under-solen'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'ce-soir-je-tattendais'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'merci-cherie'
+points = 5
+source = 'jury'
+
+[[belgium]]
+song   = 'come-back-to-stay'
+points = 3
+source = 'jury'
+
+[[belgium]]
+song   = 'die-zeiger-der-uhr'
+points = 1
+source = 'jury'
+
+[[denmark]]
+song   = 'nygammal-vals-eller-hip-man-svinaherde'
+points = 5
+source = 'jury'
+
+[[denmark]]
+song   = 'play-boy'
+points = 3
+source = 'jury'
+
+[[denmark]]
+song   = 'ele-e-ela'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'nygammal-vals-eller-hip-man-svinaherde'
+points = 5
+source = 'jury'
+
+[[finland]]
+song   = 'stop-ja-stop-ja-stop-mens-legen-er-go'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'brez-besed'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'come-back-to-stay'
+points = 5
+source = 'jury'
+
+[[france]]
+song   = 'merci-cherie'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'ce-soir-je-tattendais'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'un-peu-de-poivre-un-peu-de-sel'
+points = 5
+source = 'jury'
+
+[[germany]]
+song   = 'brez-besed'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'intet-er-nytt-under-solen'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'a-man-without-love'
+points = 5
+source = 'jury'
+
+[[ireland]]
+song   = 'ne-vois-tu-pas'
+points = 3
+source = 'jury'
+
+[[ireland]]
+song   = 'fernando-en-philippo'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'intet-er-nytt-under-solen'
+points = 5
+source = 'jury'
+
+[[italy]]
+song   = 'merci-cherie'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'die-zeiger-der-uhr'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'merci-cherie'
+points = 5
+source = 'jury'
+
+[[luxembourg]]
+song   = 'a-man-without-love'
+points = 3
+source = 'jury'
+
+[[luxembourg]]
+song   = 'ne-vois-tu-pas'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'merci-cherie'
+points = 5
+source = 'jury'
+
+[[monaco]]
+song   = 'ne-vois-tu-pas'
+points = 3
+source = 'jury'
+
+[[monaco]]
+song   = 'chez-nous'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'nygammal-vals-eller-hip-man-svinaherde'
+points = 5
+source = 'jury'
+
+[[norway]]
+song   = 'play-boy'
+points = 3
+source = 'jury'
+
+[[norway]]
+song   = 'stop-ja-stop-ja-stop-mens-legen-er-go'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'yo-soy-aquel'
+points = 5
+source = 'jury'
+
+[[portugal]]
+song   = 'un-peu-de-poivre-un-peu-de-sel'
+points = 3
+source = 'jury'
+
+[[portugal]]
+song   = 'merci-cherie'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'ele-e-ela'
+points = 5
+source = 'jury'
+
+[[spain]]
+song   = 'intet-er-nytt-under-solen'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'merci-cherie'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'ce-soir-je-tattendais'
+points = 5
+source = 'jury'
+
+[[sweden]]
+song   = 'intet-er-nytt-under-solen'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'un-peu-de-poivre-un-peu-de-sel'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'die-zeiger-der-uhr'
+points = 5
+source = 'jury'
+
+[[switzerland]]
+song   = 'merci-cherie'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'nygammal-vals-eller-hip-man-svinaherde'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'un-peu-de-poivre-un-peu-de-sel'
+points = 5
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'come-back-to-stay'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'play-boy'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'brez-besed'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'yo-soy-aquel'
+points = 3
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'fernando-en-philippo'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'merci-cherie'
+points = 5
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'come-back-to-stay'
+points = 3
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'yo-soy-aquel'
+points = 1
+source = 'jury'
+
