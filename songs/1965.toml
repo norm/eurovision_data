@@ -1,0 +1,108 @@
+[t-is-genoeg]
+title    = "’t Is Genoeg"
+artist   = 'conny-van-den-bos'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[i-belong]
+title    = "I Belong"
+artist   = 'kathy-kirby'
+country  = 'united-kingdom'
+language = ['english']
+
+[que-bueno-que-bueno]
+title    = "Qué Bueno, Qué Bueno"
+artist   = 'conchita-bautista'
+country  = 'spain'
+language = ['spanish']
+
+[im-walking-the-streets-in-the-rain]
+title    = "I'm Walking The Streets In The Rain"
+artist   = 'butch-moore'
+country  = 'ireland'
+language = ['english']
+
+[paradies-wo-bist-du]
+title    = "Paradies, Wo Bist Du?"
+artist   = 'ulla-wiesner'
+country  = 'germany'
+language = ['german']
+
+[sag-ihr-ich-lass-sie-gruen]
+title    = "Sag Ihr, Ich Lass' Sie Grüßen"
+artist   = 'udo-jurgens'
+country  = 'austria'
+language = ['german']
+
+[karusell]
+title    = "Karusell"
+artist   = 'kirsti-sparboe'
+country  = 'norway'
+language = ['norwegian']
+
+[als-het-weer-lente-is]
+title    = "Als Het Weer Lente Is"
+artist   = 'lize-marke'
+country  = 'belgium'
+language = ['dutch']
+
+[va-dire-a-lamour]
+title    = "Va Dire à L'amour"
+artist   = 'marjorie-noel'
+country  = 'monaco'
+language = ['french']
+
+[absent-friend]
+title    = "Absent Friend"
+artist   = 'ingvar-wixell'
+country  = 'sweden'
+language = ['english']
+
+[navoue-jamais]
+title    = "N'avoue Jamais"
+artist   = 'guy-mardel'
+country  = 'france'
+language = ['french']
+
+[sol-de-inverno]
+title    = "Sol De Inverno"
+artist   = 'simone-de-oliveira'
+country  = 'portugal'
+language = ['portugese']
+
+[se-piangi-se-ridi]
+title    = "Se Piangi, Se Ridi"
+artist   = 'bobby-solo'
+country  = 'italy'
+language = ['italian']
+
+[for-din-skyld]
+title    = "For Din Skyld"
+artist   = 'birgit-bruel'
+country  = 'denmark'
+language = ['danish']
+
+[poupee-de-cire-poupee-de-son]
+title    = "Poupée De Cire, Poupée De Son"
+artist   = 'france-gall'
+country  = 'luxembourg'
+language = ['french']
+
+[aurinko-laskee-lanteen]
+title    = "Aurinko Laskee Länteen"
+artist   = 'viktor-klimenko'
+country  = 'finland'
+language = ['finnish']
+
+[ceznja]
+title    = "Ceznja"
+artist   = 'vice-vukov'
+country  = 'yugoslavia'
+language = ['serbo-croatian']
+
+[non-a-jamais-sans-toi]
+title    = "Non à Jamais Sans Toi"
+artist   = 'yovanna'
+country  = 'switzerland'
+language = ['french']
+

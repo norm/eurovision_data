@@ -38,6 +38,11 @@ english  = 'Greece'
 hashtag  = 'GRC'
 language = ['greek']
 
+[ireland]
+english  = 'Ireland'
+hashtag  = 'IRL'
+language = ['english', 'irish']
+
 [israel]
 english  = 'Israel'
 hashtag  = 'ISR'
