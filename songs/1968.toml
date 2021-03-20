@@ -1,0 +1,101 @@
+[verao]
+title    = "Verão"
+artist   = 'carlos-mendes'
+country  = 'portugal'
+language = ['portugese']
+
+[morgen]
+title    = "Morgen"
+artist   = 'ronnie-tober'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[quand-tu-reviendras]
+title    = "Quand Tu Reviendras"
+artist   = 'claude-lombard'
+country  = 'belgium'
+language = ['french']
+
+[tausend-fenster]
+title    = "Tausend Fenster"
+artist   = 'karel-gott'
+country  = 'austria'
+language = ['german']
+
+[nous-vivrons-damour]
+title    = "Nous Vivrons D'amour"
+artist   = 'chris-baldo-and-sophie-garel'
+country  = 'luxembourg'
+language = ['french']
+
+[guardando-il-sole]
+title    = "Guardando Il Sole"
+artist   = 'gianni-mascolo'
+country  = 'switzerland'
+language = ['italian']
+
+[a-chacun-sa-chanson]
+title    = "A Chacun Sa Chanson"
+artist   = 'line-and-willy'
+country  = 'monaco'
+language = ['french']
+
+[det-borjar-verka-karlek-banne-mej]
+title    = "Det Börjar Verka Kärlek, Banne Mej"
+artist   = 'claes-goran-hederstrom'
+country  = 'sweden'
+language = ['swedish']
+
+[kun-kello-kay]
+title    = "Kun Kello Käy"
+artist   = 'kristina-hautala'
+country  = 'finland'
+language = ['finnish']
+
+[la-source]
+title    = "La Source"
+artist   = 'isabelle-aubret'
+country  = 'france'
+language = ['french']
+
+[marianne]
+title    = "Marianne"
+artist   = 'sergio-endrigo'
+country  = 'italy'
+language = ['italian']
+
+[congratulations]
+title    = "Congratulations"
+artist   = 'cliff-richard'
+country  = 'united-kingdom'
+language = ['english']
+
+[stress]
+title    = "Stress"
+artist   = 'odd-brre'
+country  = 'norway'
+language = ['norwegian']
+
+[chance-of-a-lifetime]
+title    = "Chance Of A Lifetime"
+artist   = 'pat-mcgeegan'
+country  = 'ireland'
+language = ['english']
+
+[la-la-la]
+title    = "La, La, La..."
+artist   = 'massiel'
+country  = 'spain'
+language = ['spanish']
+
+[ein-hoch-der-liebe]
+title    = "Ein Hoch Der Liebe"
+artist   = 'wencke-myhre'
+country  = 'germany'
+language = ['german']
+
+[jedan-dan]
+title    = "Jedan Dan"
+artist   = 'luci-kapurso-and-hamo-hajdarhodzic'
+country  = 'yugoslavia'
+language = ['serbo-croatian']

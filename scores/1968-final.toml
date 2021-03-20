@@ -1,0 +1,405 @@
+[[austria]]
+song   = 'chance-of-a-lifetime'
+points = 4
+source = 'jury'
+
+[[austria]]
+song   = 'la-la-la'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'la-source'
+points = 2
+source = 'jury'
+
+[[austria]]
+song   = 'jedan-dan'
+points = 1
+source = 'jury'
+
+[[austria]]
+song   = 'nous-vivrons-damour'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'la-source'
+points = 6
+source = 'jury'
+
+[[belgium]]
+song   = 'congratulations'
+points = 2
+source = 'jury'
+
+[[belgium]]
+song   = 'jedan-dan'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'chance-of-a-lifetime'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'la-la-la'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'a-chacun-sa-chanson'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'congratulations'
+points = 2
+source = 'jury'
+
+[[finland]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'quand-tu-reviendras'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'la-la-la'
+points = 4
+source = 'jury'
+
+[[france]]
+song   = 'congratulations'
+points = 4
+source = 'jury'
+
+[[france]]
+song   = 'nous-vivrons-damour'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'quand-tu-reviendras'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'la-la-la'
+points = 6
+source = 'jury'
+
+[[germany]]
+song   = 'congratulations'
+points = 2
+source = 'jury'
+
+[[germany]]
+song   = 'tausend-fenster'
+points = 2
+source = 'jury'
+
+[[ireland]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 4
+source = 'jury'
+
+[[ireland]]
+song   = 'jedan-dan'
+points = 3
+source = 'jury'
+
+[[ireland]]
+song   = 'la-la-la'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'congratulations'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'a-chacun-sa-chanson'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'la-la-la'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'quand-tu-reviendras'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'la-source'
+points = 2
+source = 'jury'
+
+[[italy]]
+song   = 'congratulations'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'morgen'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'la-source'
+points = 3
+source = 'jury'
+
+[[luxembourg]]
+song   = 'ein-hoch-der-liebe'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'la-la-la'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'chance-of-a-lifetime'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'stress'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'congratulations'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'jedan-dan'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'a-chacun-sa-chanson'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'congratulations'
+points = 5
+source = 'jury'
+
+[[monaco]]
+song   = 'la-la-la'
+points = 4
+source = 'jury'
+
+[[monaco]]
+song   = 'nous-vivrons-damour'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 6
+source = 'jury'
+
+[[norway]]
+song   = 'verao'
+points = 2
+source = 'jury'
+
+[[norway]]
+song   = 'la-la-la'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 'kun-kello-kay'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'la-la-la'
+points = 4
+source = 'jury'
+
+[[portugal]]
+song   = 'chance-of-a-lifetime'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'jedan-dan'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'marianne'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'quand-tu-reviendras'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'congratulations'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'verao'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'ein-hoch-der-liebe'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'marianne'
+points = 2
+source = 'jury'
+
+[[spain]]
+song   = 'jedan-dan'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'stress'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'quand-tu-reviendras'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'chance-of-a-lifetime'
+points = 4
+source = 'jury'
+
+[[sweden]]
+song   = 'congratulations'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'ein-hoch-der-liebe'
+points = 2
+source = 'jury'
+
+[[sweden]]
+song   = 'la-source'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'congratulations'
+points = 4
+source = 'jury'
+
+[[switzerland]]
+song   = 'la-source'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'marianne'
+points = 2
+source = 'jury'
+
+[[switzerland]]
+song   = 'ein-hoch-der-liebe'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'la-source'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'congratulations'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'a-chacun-sa-chanson'
+points = 2
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'chance-of-a-lifetime'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'nous-vivrons-damour'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'ein-hoch-der-liebe'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'det-borjar-verka-karlek-banne-mej'
+points = 2
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'a-chacun-sa-chanson'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'nous-vivrons-damour'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'quand-tu-reviendras'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'chance-of-a-lifetime'
+points = 6
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'marianne'
+points = 2
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'guardando-il-sole'
+points = 2
+source = 'jury'
+

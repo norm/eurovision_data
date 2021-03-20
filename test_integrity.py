@@ -260,7 +260,7 @@ class TestScoresIntegrity:
                         assert points in (1, 2, 3, 4, 5)
                     elif year >= 1964 and year <= 1966:
                         assert points in (1, 3, 5, 6, 9)
-                    elif year == 1967:
+                    elif year >= 1967 and year <= 1970:
                         assert points >= 1
                         assert points <= 10
                     else:
@@ -279,7 +279,7 @@ class TestScoresIntegrity:
                     assert total == 15
                 elif year >= 1964 and year <= 1966:
                     assert total == 9
-                elif year == 1967:
+                elif year >= 1967 and year <= 1970:
                     assert total == 10
                 else:
                     raise UnknownYear

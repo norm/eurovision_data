@@ -13,6 +13,11 @@ english  = 'Bulgaria'
 hashtag  = 'BGR'
 language = ['bulgarian']
 
+[czechoslovakia]
+english = 'Czechoslovakia'
+hashtag = 'CSK'
+language = ['czechoslovak', 'czech', 'slovak']
+
 [denmark]
 english  = 'Denmark'
 hashtag  = 'DNK'
