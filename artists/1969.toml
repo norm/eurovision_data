@@ -1,0 +1,49 @@
+[ivan]
+name   = 'Ivan'
+singer = ['ivan']
+
+[salome]
+name   = 'Salomé'
+singer = ['salome']
+
+[jean-jacques]
+name   = 'Jean-Jacques'
+singer = ['jean-jacques']
+
+[muriel-day-and-the-lindsays]
+name   = 'Muriel Day and the Lindsays'
+singer = [
+    'muriel-day',
+    # the Lindsays? who knows?
+]
+
+[iva-zanicchi]
+name   = 'Iva Zanicchi'
+singer = ['iva-zanicchi']
+
+[lulu]
+name   = 'Lulu'
+singer = ['lulu']
+
+[lenny-kuhr]
+name   = 'Lenny Kuhr'
+singer = ['lenny-kuhr']
+
+[tommy-korberg]
+name   = 'Tommy Körberg'
+singer = ['tommy-korberg']
+
+[paola-del-medico]
+name   = 'Paola del Medico'
+singer = ['paola-del-medico']
+
+[frida-boccara]
+name   = 'Frida Boccara'
+singer = ['frida-boccara']
+
+[jarkko-and-laura]
+name   = 'Jarkko and Laura'
+singer = [
+    'jarkko-antikainen',
+    'laura-antikainen',
+]

@@ -79,7 +79,7 @@ for row in board.select('tbody tr'):
     if country_slug not in countries:
         countries_handle.write("\n[%s]\n" % country_slug)
         countries_handle.write("english  = '%s'\n" % country)
-        countries_handle.write("hashtag  = ''\n\n")
+        countries_handle.write("hashtag  = ''\n")
         countries_handle.write("language = ['xx']\n\n")
 
     if artist_slug not in artists:
@@ -100,7 +100,7 @@ for row in board.select('tbody tr'):
         songs_handle.write('title    = "%s"\n' % song)
         songs_handle.write("artist   = '%s'\n" % artist_slug)
         songs_handle.write("country  = '%s'\n" % country_slug)
-        songs_handle.write("language = ''\n\n")
+        songs_handle.write("language = ['xx']\n\n")
 
 with open('scores/%s-%s.toml' % (year, show), 'w') as scores_handle:
     for country in sorted(competing):

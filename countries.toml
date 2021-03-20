@@ -13,6 +13,11 @@ english  = 'Bulgaria'
 hashtag  = 'BGR'
 language = ['bulgarian']
 
+[czechoslovakia]
+english = 'Czechoslovakia'
+hashtag = 'CSK'
+language = ['czechoslovak', 'czech', 'slovak']
+
 [denmark]
 english  = 'Denmark'
 hashtag  = 'DNK'
@@ -37,6 +42,11 @@ language = ['german']
 english  = 'Greece'
 hashtag  = 'GRC'
 language = ['greek']
+
+[ireland]
+english  = 'Ireland'
+hashtag  = 'IRL'
+language = ['english', 'irish']
 
 [israel]
 english  = 'Israel'
@@ -72,6 +82,11 @@ language = ['norwegian', 'sami']
 english  = 'Portugal'
 hashtag  = 'PRT'
 language = ['portugese']
+
+[russia]
+english  = 'Russia'
+hashtag  = 'RUS'
+language = ['russian']
 
 [spain]
 english  = 'Spain'

@@ -1,0 +1,67 @@
+[ivan]
+name        = 'Ivica Krajač'
+known_as    = 'Ivan'
+born        = 1938-04-02
+citizenship = ['yugoslavia']
+
+[salome]
+name        = 'Maria Rosa Marco Poquet'
+known_as    = 'Salomé'
+born        = 1939-06-21
+citizenship = ['spain']
+
+[jean-jacques]
+name        = 'Jean-Jacques Bortolaï'
+known_as    = 'Jean-Jacques'
+born        = 1956-11-17
+citizenship = ['france']
+
+[muriel-day]
+name        = 'Muriel Day'
+born        = 1942-01-11
+citizenship = ['ireland']
+
+[iva-zanicchi]
+name        = 'Iva Zanicchi'
+born        = 1940-01-18
+citizenship = ['italy']
+
+[lulu]
+name        = 'Lulu Kennedy-Cairns'
+known_as    = 'Lulu'
+born        = 1948-11-03
+citizenship = ['united-kingdom']
+
+[lenny-kuhr]
+name        = 'Helena Hubertina Johanna Kuhr'
+known_as    = 'Lenny Kuhr'
+born        = 1950-02-22
+citizenship = ['the-netherlands']
+
+[tommy-korberg]
+name        = 'Bert Gustav Tommy Körberg'
+known_as    = 'Tommy Körberg'
+born        = 1948-07-04
+citizenship = ['sweden']
+
+[paola-del-medico]
+name        = 'Paola del Medico Felix'
+known_as    = 'Paola del Medico'
+born        = 1950-10-05
+citizenship = ['switzerland']
+
+[frida-boccara]
+name        = 'Danielle Frida Hélène Boccara'
+known_as    = 'Frida Boccara'
+born        = 1940-10-29
+died        = 1996-08-01
+citizenship = ['france']
+
+[jarkko-antikainen]
+name        = 'Jarkko Antikainen'
+citizenship = ['finland']
+
+[laura-antikainen]
+name        = 'Laura Antikainen'
+citizenship = ['finland']
+

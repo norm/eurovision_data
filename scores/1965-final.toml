@@ -1,0 +1,265 @@
+[[austria]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 5
+source = 'jury'
+
+[[austria]]
+song   = 'non-a-jamais-sans-toi'
+points = 3
+source = 'jury'
+
+[[austria]]
+song   = 'karusell'
+points = 1
+source = 'jury'
+
+[[belgium]]
+song   = 'i-belong'
+points = 6
+source = 'jury'
+
+[[belgium]]
+song   = 'se-piangi-se-ridi'
+points = 3
+source = 'jury'
+
+[[denmark]]
+song   = 'i-belong'
+points = 5
+source = 'jury'
+
+[[denmark]]
+song   = 'absent-friend'
+points = 3
+source = 'jury'
+
+[[denmark]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 1
+source = 'jury'
+
+[[finland]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 5
+source = 'jury'
+
+[[finland]]
+song   = 'absent-friend'
+points = 3
+source = 'jury'
+
+[[finland]]
+song   = 'navoue-jamais'
+points = 1
+source = 'jury'
+
+[[france]]
+song   = 'non-a-jamais-sans-toi'
+points = 5
+source = 'jury'
+
+[[france]]
+song   = 'se-piangi-se-ridi'
+points = 3
+source = 'jury'
+
+[[france]]
+song   = 'ceznja'
+points = 1
+source = 'jury'
+
+[[germany]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 5
+source = 'jury'
+
+[[germany]]
+song   = 'navoue-jamais'
+points = 3
+source = 'jury'
+
+[[germany]]
+song   = 'se-piangi-se-ridi'
+points = 1
+source = 'jury'
+
+[[ireland]]
+song   = 'sag-ihr-ich-lass-sie-gruen'
+points = 5
+source = 'jury'
+
+[[ireland]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 3
+source = 'jury'
+
+[[ireland]]
+song   = 'navoue-jamais'
+points = 1
+source = 'jury'
+
+[[italy]]
+song   = 'im-walking-the-streets-in-the-rain'
+points = 5
+source = 'jury'
+
+[[italy]]
+song   = 'sag-ihr-ich-lass-sie-gruen'
+points = 3
+source = 'jury'
+
+[[italy]]
+song   = 'i-belong'
+points = 1
+source = 'jury'
+
+[[luxembourg]]
+song   = 'for-din-skyld'
+points = 5
+source = 'jury'
+
+[[luxembourg]]
+song   = 'navoue-jamais'
+points = 3
+source = 'jury'
+
+[[luxembourg]]
+song   = 'se-piangi-se-ridi'
+points = 1
+source = 'jury'
+
+[[monaco]]
+song   = 'navoue-jamais'
+points = 5
+source = 'jury'
+
+[[monaco]]
+song   = 'se-piangi-se-ridi'
+points = 3
+source = 'jury'
+
+[[monaco]]
+song   = 'sol-de-inverno'
+points = 1
+source = 'jury'
+
+[[norway]]
+song   = 't-is-genoeg'
+points = 5
+source = 'jury'
+
+[[norway]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 3
+source = 'jury'
+
+[[norway]]
+song   = 'i-belong'
+points = 1
+source = 'jury'
+
+[[portugal]]
+song   = 'sag-ihr-ich-lass-sie-gruen'
+points = 5
+source = 'jury'
+
+[[portugal]]
+song   = 'im-walking-the-streets-in-the-rain'
+points = 3
+source = 'jury'
+
+[[portugal]]
+song   = 'ceznja'
+points = 1
+source = 'jury'
+
+[[spain]]
+song   = 'i-belong'
+points = 5
+source = 'jury'
+
+[[spain]]
+song   = 'navoue-jamais'
+points = 3
+source = 'jury'
+
+[[spain]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 1
+source = 'jury'
+
+[[sweden]]
+song   = 'for-din-skyld'
+points = 5
+source = 'jury'
+
+[[sweden]]
+song   = 'i-belong'
+points = 3
+source = 'jury'
+
+[[sweden]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 1
+source = 'jury'
+
+[[switzerland]]
+song   = 'i-belong'
+points = 5
+source = 'jury'
+
+[[switzerland]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 3
+source = 'jury'
+
+[[switzerland]]
+song   = 'va-dire-a-lamour'
+points = 1
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'poupee-de-cire-poupee-de-son'
+points = 5
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'se-piangi-se-ridi'
+points = 3
+source = 'jury'
+
+[[the-netherlands]]
+song   = 'navoue-jamais'
+points = 1
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'va-dire-a-lamour'
+points = 5
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'sag-ihr-ich-lass-sie-gruen'
+points = 3
+source = 'jury'
+
+[[united-kingdom]]
+song   = 'se-piangi-se-ridi'
+points = 1
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'navoue-jamais'
+points = 5
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'im-walking-the-streets-in-the-rain'
+points = 3
+source = 'jury'
+
+[[yugoslavia]]
+song   = 'va-dire-a-lamour'
+points = 1
+source = 'jury'
+

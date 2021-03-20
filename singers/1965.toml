@@ -1,0 +1,94 @@
+[conny-van-den-bos]
+name        = 'Jacoba Adriana Hollestelle'
+known_as    = 'Conny Vandenbos'
+born        = 1937-01-16
+died        = 2002-04-07
+citizenship = ['the-netherlands']
+
+[kathy-kirby]
+name        = "Kathleen O'Rourke"
+known_as    = 'Kathy Kirby'
+born        = 1938-10-20
+died        = 2011-05-19
+citizenship = ['united-kingdom']
+
+[butch-moore]
+name        = 'James Augustine Moore'
+known_as    = 'Butch Moore'
+born        = 1938-01-10
+died        = 2001-04-03
+citizenship = ['ireland']
+
+[ulla-wiesner]
+name        = 'Ulla Wiesner'
+born        = 1940-12-12
+citizenship = ['germany']
+
+[kirsti-sparboe]
+name        = 'Kirsti Sparboe'
+born        = 1946-12-07
+citizenship = ['norway']
+
+[lize-marke]
+name        = 'Liliane Couck'
+known_as    = 'Lize Marke'
+born        = 1936-12-01
+citizenship = ['belgium']
+
+[marjorie-noel]
+name        = 'Françoise Nivot'
+known_as    = 'Marjorie Noël'
+born        = 1945-12-25
+died        = 2000-04-30
+citizenship = ['france']
+
+[ingvar-wixell]
+name        = 'Karl Gustaf Ingvar Wixell'
+known_as    = 'Ingvar Wixell'
+born        = 1931-05-07
+died        = 2011-10-08
+citizenship = ['sweden']
+
+[guy-mardel]
+name        = 'Mardochée Elkoubi'
+known_as    = 'Guy Mardel'
+born        = 1944-06-30
+citizenship = ['france']
+
+[simone-de-oliveira]
+name        = 'Simone de Macedo e Oliveira'
+known_as    = 'Simone de Oliveira'
+born        = 1938-02-11
+citizenship = ['portugal']
+
+[bobby-solo]
+name        = 'Roberto Satti'
+known_as    = 'Bobby Solo'
+born        = 1945-03-18
+citizenship = ['italy']
+
+[birgit-bruel]
+name        = 'Birgit Brüel'
+born        = 1927-10-06
+died        = 1996-02-23
+citizenship = ['denmark']
+
+[france-gall]
+name        = 'Isabelle Geneviève Marie Anne Gall'
+known_as    = 'France Gall'
+born        = 1947-10-09
+died        = 2018-01-07
+citizenship = ['france']
+
+[viktor-klimenko]
+name        = 'Viktor Savvich Klimenko'
+known_as    = 'Viktor Klimenko'
+born        = 1942-11-24
+citizenship = ['finland']
+
+[yovanna]
+name        = 'Ioanna Fassou Kalpaxi'
+known_as    = 'Yovanna'
+born        = 1940-11-14
+citizenship = ['greece']
+

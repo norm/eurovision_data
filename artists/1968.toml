@@ -1,0 +1,73 @@
+[carlos-mendes]
+name   = 'Carlos Mendes'
+singer = ['carlos-mendes']
+
+[ronnie-tober]
+name   = 'Ronnie Tober'
+singer = ['ronnie-tober']
+
+[claude-lombard]
+name   = 'Claude Lombard'
+singer = ['claude-lombard']
+
+[karel-gott]
+name   = 'Karel Gott'
+singer = ['karel-gott']
+
+[chris-baldo-and-sophie-garel]
+name   = 'Chris Baldo and Sophie Garel'
+singer = [
+    'chris-baldo',
+    'sophie-garel',
+]
+
+[gianni-mascolo]
+name   = 'Gianni Mascolo'
+singer = ['gianni-mascolo']
+
+[line-and-willy]
+name   = 'Line and Willy'
+singer = [
+    'line',
+    'willy',
+]
+
+[claes-goran-hederstrom]
+name   = 'Claes-Göran Hederström'
+singer = ['claes-goran-hederstrom']
+
+[kristina-hautala]
+name   = 'Kristina Hautala'
+singer = ['kristina-hautala']
+
+[sergio-endrigo]
+name   = 'Sergio Endrigo'
+singer = ['sergio-endrigo']
+
+[cliff-richard]
+name   = 'Cliff Richard'
+singer = ['cliff-richard']
+
+[odd-brre]
+name   = 'Odd Børre'
+singer = ['odd-brre']
+
+[pat-mcgeegan]
+name   = 'Pat McGeegan'
+singer = ['pat-mcgeegan']
+
+[massiel]
+name   = 'Massiel'
+singer = ['massiel']
+
+[wencke-myhre]
+name   = 'Wencke Myhre'
+singer = ['wencke-myhre']
+
+[luci-kapurso-and-hamo-hajdarhodzic]
+name   = 'Luci Kapurso and Hamo Hajdarhodzic'
+singer = [
+    'luci-kapurso',
+    'hamo-hajdarhodzic',
+]
+

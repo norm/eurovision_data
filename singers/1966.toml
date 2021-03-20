@@ -1,0 +1,101 @@
+[margot-eskens]
+name        = 'Margot Eskens'
+born        = 1939-08-12
+citizenship = ['germany']
+
+[ulla-pia]
+name        = 'Ulla Pia Nielsen'
+known_as    = 'Ulla Pia'
+born        = 1945-02-17
+died        = 2020-08-22
+citizenship = ['denmark']
+
+[tonia]
+name        = 'Arlette Antoine Dominicus'
+known_as    = 'Tonia'
+born        = 1947-07-25
+citizenship = ['belgium']
+
+[michele-torr]
+name        = 'Michelle Cléberte Tort'
+known_as    = 'Michèle Torr'
+born        = 1947-04-07
+citizenship = ['france']
+
+[berta-ambroz]
+name        = 'Berta Ambrož'
+born        = 1944-10-29
+died        = 2003-07-01
+citizenship = ['yugoslavia']
+
+[ase-kleveland]
+name        = 'Åse Maria Kleveland'
+known_as    = 'Åse Kleveland'
+born        = 1949-03-17
+citizenship = ['norway']
+
+[ann-christine-nystrom]
+name        = 'Ann-Christine Nyström'
+known_as    = 'Ann-Christine Nyström'
+born        = 1944-07-26
+citizenship = ['finland']
+
+[madalena-iglesias]
+name        = 'Madalena Lucília Iglésias do Vale de Oliveira'
+known_as    = 'Madalena Iglesias'
+born        = 1939-10-24
+died        = 2018-01-16
+citizenship = ['portugal']
+
+[lill-lindfors]
+name        = 'Maj Lillemor Lindfors'
+known_as    = 'Lill Lindfors'
+born        = 1940-05-12
+citizenship = ['finland']
+
+[svante-thuresson]
+name        = 'Svante Thuresson'
+born        = 1937-02-07
+citizenship = ['sweden']
+
+[raphael]
+name        = 'Miguel Rafael Martos Sánchez'
+known_as    = 'Raphael'
+born        = 1943-05-05
+citizenship = ['spain']
+
+[madeleine-pascal]
+name        = 'Madeleine Pascal'
+# born        = 1946
+citizenship = ['france']
+
+[tereza]
+name        = 'Tereza Ana Kesovija'
+known_as    = 'Tereza'
+born        = 1938-10-03
+citizenship = ['yugoslavia']
+
+[dominique-walter]
+name        = 'Dominique Gruère'
+known_as    = 'Dominique Walter'
+born        = 1942-05-22
+citizenship = ['france']
+
+[milly-scott]
+name        = 'Marion Henriëtte Louise Molly'
+known_as    = 'Milly Scott'
+born        = 1933-12-29
+citizenship = ['the-netherlands']
+
+[dickie-rock]
+name        = 'Richard Rock'
+known_as    = 'Dickie Rock'
+born        = 1936-09-10
+citizenship = ['ireland']
+
+[kenneth-mckellar]
+name        = 'Kenneth McKellar'
+born        = 1927-06-23
+died        = 2010-04-09
+citizenship = ['united-kingdom']
+

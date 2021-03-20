@@ -1,0 +1,82 @@
+[therese-steinmetz]
+name        = 'Thérèse Steinmetz'
+born        = 1933-05-17
+citizenship = ['the-netherlands']
+
+[vicky]
+name        = 'Vicky Leandros'
+known_as    = 'Vicky'
+born        = 1949-08-23
+citizenship = ['greece']
+
+[peter-horten]
+name        = 'Peter Müller'
+known_as    = 'Peter Horten'
+born        = 1941-09-19
+citizenship = ['austria']
+
+[noelle-cordier]
+name        = 'Noëlle Cordier'
+born        = 1944-04-07
+citizenship = ['france']
+
+[eduardo-nascimento]
+name        = 'Eduardo Nascimento'
+born        = 1943-06-26
+died        = 2019-11-22
+citizenship = ['portugal']
+
+[geraldine]
+name        = 'Géraldine Gogly'
+known_as    = 'Géraldine'
+born        = 1946-04-18
+citizenship = ['france']
+
+[osten-warnebring]
+name        = 'Östen Warnebring'
+born        = 1934-11-22
+died        = 2006-01-18
+citizenship = ['sweden']
+
+[fredi]
+name        = 'Matti Kalevi Siitonen'
+known_as    = 'Fredi'
+born        = 1942-07-23
+citizenship = ['finland']
+
+[inge-bruck]
+name        = 'Inge Brück'
+born        = 1936-10-12
+citizenship = ['germany']
+
+[louis-neefs]
+name        = 'Ludwig Adèle Maria Jozef Neefs'
+known_as    = 'Louis Neefs'
+born        = 1937-08-08
+died        = 1980-12-25
+citizenship = ['belgium']
+
+[sandie-shaw]
+name        = 'Sandra Ann Goodrich'
+known_as    = 'Sandie Shaw'
+born        = 1947-02-26
+citizenship = ['united-kingdom']
+
+[minouche-barelli]
+name        = 'Mary-Pierre Barelli'
+known_as    = 'Minouche Barelli'
+born        = 1947-12-13
+died        = 2004-02-20
+citizenship = ['france']
+
+[lado-leskovar]
+name        = 'Vladimir Leskovar'
+known_as    = 'Lado Leskovar'
+born        = 1942-03-23
+citizenship = ['yugoslavia']
+
+[sean-dunphy]
+name        = 'Sean Dunphy'
+born        = 1937-11-30
+died        = 2011-05-17
+citizenship = ['ireland']
