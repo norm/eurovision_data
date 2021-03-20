@@ -83,6 +83,11 @@ english  = 'Portugal'
 hashtag  = 'PRT'
 language = ['portugese']
 
+[russia]
+english  = 'Russia'
+hashtag  = 'RUS'
+language = ['russian']
+
 [spain]
 english  = 'Spain'
 hashtag  = 'ESP'

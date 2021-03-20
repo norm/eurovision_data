@@ -1,0 +1,106 @@
+[pozdrav-svijetu]
+title    = "Pozdrav Svijetu"
+artist   = 'ivan'
+country  = 'yugoslavia'
+language = [
+    'serbo-croatian',
+    'spanish',
+    'german',
+    'french',
+    'english',
+    'dutch',
+    'italian',
+    'russian',
+    'french',
+]
+
+[catherine]
+title    = "Cathérine"
+artist   = 'romuald'
+country  = 'luxembourg'
+language = ['french']
+
+[vivo-cantando]
+title    = "Vivo Cantando"
+artist   = 'salome'
+country  = 'spain'
+language = ['spanish']
+
+[maman-maman]
+title    = "Maman, Maman"
+artist   = 'jean-jacques'
+country  = 'monaco'
+language = ['french']
+
+[the-wages-of-love]
+title    = "The Wages Of Love"
+artist   = 'muriel-day-and-the-lindsays'
+country  = 'ireland'
+language = ['english']
+
+[due-grosse-lacrime-bianche]
+title    = "Due Grosse Lacrime Bianche"
+artist   = 'iva-zanicchi'
+country  = 'italy'
+language = ['italian']
+
+[boom-bang-a-bang]
+title    = "Boom Bang-a-bang"
+artist   = 'lulu'
+country  = 'united-kingdom'
+language = ['english']
+
+[de-troubadour]
+title    = "De Troubadour"
+artist   = 'lenny-kuhr'
+country  = 'the-netherlands'
+language = ['dutch']
+
+[judy-min-van]
+title    = "Judy, Min Vän"
+artist   = 'tommy-korberg'
+country  = 'sweden'
+language = ['swedish']
+
+[jennifer-jennings]
+title    = "Jennifer Jennings"
+artist   = 'louis-neefs'
+country  = 'belgium'
+language = ['dutch']
+
+[bonjour-bonjour]
+title    = "Bonjour, Bonjour"
+artist   = 'paola-del-medico'
+country  = 'switzerland'
+language = ['german']
+
+[oj-oj-oj-sa-glad-jeg-skal-bli]
+title    = "Oj, Oj, Oj, Så Glad, Jeg Skal Bli"
+artist   = 'kirsti-sparboe'
+country  = 'norway'
+language = ['norwegian']
+
+[primaballerina]
+title    = "Primaballerina"
+artist   = 'siw-malmkvist'
+country  = 'germany'
+language = ['german']
+
+[un-jour-un-enfant]
+title    = "Un Jour, Un Enfant"
+artist   = 'frida-boccara'
+country  = 'france'
+language = ['french']
+
+[desfolhada-portuguesa]
+title    = "Desfolhada Portuguesa"
+artist   = 'simone-de-oliveira'
+country  = 'portugal'
+language = ['portugese']
+
+[kuin-silloin-ennen]
+title    = "Kuin Silloin Ennen"
+artist   = 'jarkko-and-laura'
+country  = 'finland'
+language = ['finnish']
+
